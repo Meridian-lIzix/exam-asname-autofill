@@ -6,9 +6,12 @@
 
 ## 安装
 
-1. `chrome://extensions/` → 开启「开发者模式」
-2. 「加载已解压的扩展程序」→ 选择本文件夹
-3. 打开 `https://exam.asname.cn/` 并登录，右下角出现面板
+1. 下载 [exam-asname-autofill.zip](exam-asname-autofill.zip)（点进去后右侧「Download raw file」），解压到任意位置
+2. Chrome 地址栏输入 `chrome://extensions/`，打开右上角「开发者模式」
+3. 点左上角「加载已解压的扩展程序」，选择解压出的 `exam-asname-autofill` 文件夹（选文件夹本身，不要进去选文件）
+4. 打开 `https://exam.asname.cn/` 并登录，右下角出现面板
+
+Edge 同理，扩展页地址为 `edge://extensions/`。解压后的文件夹不要删除或移动，删了扩展就失效。
 
 ## 使用
 
