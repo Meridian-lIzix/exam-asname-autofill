@@ -7,8 +7,16 @@
   const PROBE_ANSWER = 'A';
   const TYPE_NAMES = { 1: '单选题', 2: '多选题', 3: '判断题' };
   const TARGET_EXAM_PATTERN = /知识练习/;
+  const RETRY_ATTEMPTS = 3;
 
   const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+  class ApiError extends Error {
+    constructor(message, retryable) {
+      super(message);
+      this.retryable = retryable;
+    }
+  }
 
   function parseMaybeJson(raw) {
     if (typeof raw !== 'string') return raw;
@@ -25,10 +33,10 @@
       const value = parseMaybeJson(sessionStorage.getItem(key));
       if (typeof value === 'string' && value.startsWith('eyJ')) return value;
     }
-    throw new Error('未找到登录凭证，请先在本站登录后重试');
+    throw new ApiError('未找到登录凭证，请先在本站登录后重试', false);
   }
 
-  function request(method, url, body) {
+  function sendRequest(method, url, body) {
     return new Promise((resolve, reject) => {
       const xhr = new XMLHttpRequest();
       xhr.open(method, url);
@@ -40,18 +48,48 @@
         try {
           payload = JSON.parse(xhr.responseText);
         } catch {
-          reject(new Error(`${method} ${url} 返回非 JSON (HTTP ${xhr.status})`));
+          reject(new ApiError(`${url} 返回非 JSON (HTTP ${xhr.status})`, true));
           return;
         }
         if (payload.code !== 1) {
-          reject(new Error(`${method} ${url} 接口拒绝: code=${payload.code} msg=${payload.msg}`));
+          reject(new ApiError(`${payload.msg || '接口拒绝'} (code=${payload.code})`, false));
           return;
         }
         resolve(payload.data);
       };
-      xhr.onerror = () => reject(new Error(`${method} ${url} 网络请求失败`));
+      xhr.onerror = () => reject(new ApiError(`${url} 网络请求失败`, true));
       xhr.send(body ? JSON.stringify(body) : null);
     });
+  }
+
+  async function request(method, url, body) {
+    for (let attempt = 1; ; attempt += 1) {
+      try {
+        return await sendRequest(method, url, body);
+      } catch (error) {
+        if (!error.retryable || attempt >= RETRY_ATTEMPTS) throw error;
+        await sleep(200 * attempt);
+      }
+    }
+  }
+
+  async function mapPool(items, limit, worker, shouldStop) {
+    const outcomes = new Array(items.length);
+    let cursor = 0;
+    const runners = Array.from({ length: Math.min(limit, items.length) }, async () => {
+      while (cursor < items.length) {
+        if (shouldStop()) return;
+        const index = cursor;
+        cursor += 1;
+        try {
+          outcomes[index] = { ok: true, value: await worker(items[index]) };
+        } catch (error) {
+          outcomes[index] = { ok: false, error };
+        }
+      }
+    });
+    await Promise.all(runners);
+    return outcomes;
   }
 
   const fetchExams = async () => {
@@ -75,27 +113,60 @@
   const submitAnswer = (examId, questionId, answer) =>
     request('POST', ASSESSMENT_API, { exam_id: examId, answer, question_id: questionId, act: 'add' });
 
-  async function resolveQuestion(examId, questionId, delayMs) {
-    let detail = await selectQuestion(examId, questionId);
-    let probed = false;
+  async function processExam(exam, questionIds, concurrency, report, shouldStop) {
+    const details = new Map();
+    let failed = 0;
 
-    if (!detail.r_answer) {
-      await sleep(delayMs);
-      await submitAnswer(examId, questionId, PROBE_ANSWER);
-      await sleep(delayMs);
-      detail = await selectQuestion(examId, questionId);
-      probed = true;
-    }
-    if (!detail.r_answer) throw new Error(`题目 ${questionId} 提交探针后仍未返回正确答案`);
+    const runPhase = async (label, items, worker) => {
+      let done = 0;
+      const outcomes = await mapPool(
+        items,
+        concurrency,
+        async (item) => {
+          try {
+            return await worker(item);
+          } finally {
+            done += 1;
+            report.phase(exam.name, label, done, items.length);
+          }
+        },
+        shouldStop
+      );
+      for (const outcome of outcomes) {
+        if (!outcome || outcome.ok) continue;
+        failed += 1;
+        report.error(`${exam.name} ${label}：${outcome.error.message}`);
+      }
+      return outcomes;
+    };
 
-    let corrected = false;
-    if (detail.answer !== detail.r_answer) {
-      await sleep(delayMs);
-      await submitAnswer(examId, questionId, detail.r_answer);
-      detail.answer = detail.r_answer;
-      corrected = true;
+    const initial = await runPhase('读取', questionIds, (id) => selectQuestion(exam.id, id));
+    for (const outcome of initial) {
+      if (outcome && outcome.ok) details.set(outcome.value.id, outcome.value);
     }
-    return { detail, probed, corrected };
+
+    const unanswered = [...details.values()].filter((detail) => !detail.r_answer);
+    if (unanswered.length && !shouldStop()) {
+      await runPhase('探针', unanswered, (detail) => submitAnswer(exam.id, detail.id, PROBE_ANSWER));
+      const refreshed = await runPhase('回读', unanswered, (detail) => selectQuestion(exam.id, detail.id));
+      for (const outcome of refreshed) {
+        if (outcome && outcome.ok) details.set(outcome.value.id, outcome.value);
+      }
+    }
+
+    const mismatched = [...details.values()].filter(
+      (detail) => detail.r_answer && detail.answer !== detail.r_answer
+    );
+    if (mismatched.length && !shouldStop()) {
+      await runPhase('校正', mismatched, (detail) => submitAnswer(exam.id, detail.id, detail.r_answer));
+      for (const detail of mismatched) detail.answer = detail.r_answer;
+    }
+
+    const resolved = [...details.values()].filter((detail) => detail.r_answer);
+    const unresolved = details.size - resolved.length;
+    if (unresolved) report.error(`${exam.name}：${unresolved} 题未能取得正确答案`);
+
+    return { resolved, probed: unanswered.length, corrected: mismatched.length, failed };
   }
 
   function toRecord(exam, detail) {
@@ -143,7 +214,11 @@
           .map((item, index) => {
             const correct = new Set(item.answer.split(','));
             const options = item.options
-              .map((option) => `${correct.has(option.key) ? '- **' : '- '}${option.key}、${option.text}${correct.has(option.key) ? '** ✅' : ''}`)
+              .map((option) =>
+                correct.has(option.key)
+                  ? `- **${option.key}、${option.text}** ✅`
+                  : `- ${option.key}、${option.text}`
+              )
               .join('\n');
             return `### ${index + 1}. ${item.question}\n\n> ${item.type_name} · ${item.score} 分\n\n${options}\n\n**答案：${item.answer}**`;
           })
@@ -163,8 +238,8 @@
     <section data-role="body">
       <div class="eaf-exams" data-role="exams">正在读取场次…</div>
       <label class="eaf-field">
-        请求间隔
-        <input type="number" data-role="delay" min="0" max="3000" step="20" value="120"> ms
+        并发数
+        <input type="number" data-role="concurrency" min="1" max="20" step="1" value="5">
       </label>
       <div class="eaf-actions">
         <button type="button" data-role="start">开始</button>
@@ -196,11 +271,11 @@
   }
 
   function refreshStats() {
-    const total = Object.keys(loadVault()).length;
-    el('stats').textContent = `本地题库：${total} 题`;
+    el('stats').textContent = `本地题库：${Object.keys(loadVault()).length} 题`;
   }
 
   let running = false;
+  const shouldStop = () => !running;
 
   async function renderExams() {
     try {
@@ -210,7 +285,7 @@
       el('exams').innerHTML = exams
         .map((exam) => `<label><input type="checkbox" value="${exam.id}"${checked.has(exam.id) ? ' checked' : ''}> ${exam.name}</label>`)
         .join('');
-      if (settings.delay !== undefined) el('delay').value = settings.delay;
+      if (settings.concurrency !== undefined) el('concurrency').value = settings.concurrency;
     } catch (error) {
       el('exams').textContent = error.message;
       log(error.message, 'error');
@@ -226,64 +301,60 @@
       log('未选择任何场次', 'error');
       return;
     }
-    const delayMs = Number(el('delay').value) || 0;
-    saveSettings({ examIds, delay: delayMs });
+    const concurrency = Math.max(1, Number(el('concurrency').value) || 1);
+    saveSettings({ examIds, concurrency });
 
     running = true;
     el('start').disabled = true;
     el('stop').disabled = false;
+    setBar(0);
 
     const exams = (await fetchExams()).filter((exam) => examIds.includes(exam.id));
-    const vault = loadVault();
-    let processed = 0;
-    let corrected = 0;
-    let probed = 0;
-    let failed = 0;
-    let total = 0;
-
     const plans = [];
     for (const exam of exams) {
       try {
-        const ids = await fetchQuestionIds(exam.id);
-        plans.push({ exam, ids });
-        total += ids.length;
-        log(`${exam.name}：${ids.length} 题待处理`);
+        plans.push({ exam, ids: await fetchQuestionIds(exam.id) });
+        log(`${exam.name}：${plans[plans.length - 1].ids.length} 题待处理`);
       } catch (error) {
         log(`${exam.name} 跳过：${error.message}`, 'error');
       }
     }
-    if (!plans.length) throw new Error('所选场次均不可作答');
+    if (!plans.length) throw new ApiError('所选场次均不可作答', false);
 
-    for (const plan of plans) {
-      for (const questionId of plan.ids) {
-        if (!running) break;
-        try {
-          const result = await resolveQuestion(plan.exam.id, questionId, delayMs);
-          vault[questionId] = toRecord(plan.exam, result.detail);
-          if (result.probed) probed += 1;
-          if (result.corrected) corrected += 1;
-        } catch (error) {
-          failed += 1;
-          log(`题目 ${questionId} 失败：${error.message}`, 'error');
-        }
-        processed += 1;
-        setBar(processed / total);
-        setStatus(`${plan.exam.name} · ${processed}/${total} · 修正 ${corrected} · 失败 ${failed}`);
-        if (processed % 20 === 0) saveVault(vault);
-        await sleep(delayMs);
-      }
+    const vault = loadVault();
+    const totals = { probed: 0, corrected: 0, failed: 0, resolved: 0 };
+    const startedAt = Date.now();
+
+    for (let index = 0; index < plans.length; index += 1) {
       if (!running) break;
+      const plan = plans[index];
+      const report = {
+        phase: (examName, label, done, total) => {
+          setStatus(`${examName} · ${label} ${done}/${total}`);
+          setBar((index + done / total / 4) / plans.length);
+        },
+        error: (message) => log(message, 'error')
+      };
+
+      const result = await processExam(plan.exam, plan.ids, concurrency, report, shouldStop);
+      for (const detail of result.resolved) vault[detail.id] = toRecord(plan.exam, detail);
       saveVault(vault);
-      log(`${plan.exam.name} 完成`);
+      refreshStats();
+
+      totals.probed += result.probed;
+      totals.corrected += result.corrected;
+      totals.failed += result.failed;
+      totals.resolved += result.resolved.length;
+      setBar((index + 1) / plans.length);
+      log(`${plan.exam.name} 完成：新答 ${result.probed}，校正 ${result.corrected}，失败 ${result.failed}`);
     }
 
-    saveVault(vault);
-    refreshStats();
     running = false;
     el('start').disabled = false;
     el('stop').disabled = true;
-    setStatus(`结束：处理 ${processed}/${total}，新答 ${probed}，修正 ${corrected}，失败 ${failed}`);
-    log(`任务结束，刷新页面即可看到全部选项已为正确答案`);
+    const seconds = Math.round((Date.now() - startedAt) / 1000);
+    setStatus(`结束 ${seconds}s：收录 ${totals.resolved}，新答 ${totals.probed}，校正 ${totals.corrected}，失败 ${totals.failed}`);
+    log('任务结束，刷新页面即可看到全部选项已为正确答案');
   }
 
   el('toggle').addEventListener('click', () => {
