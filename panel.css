@@ -1,0 +1,136 @@
+#exam-autofill-panel {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 2147483647;
+  width: 300px;
+  font: 13px/1.5 "Microsoft YaHei", system-ui, sans-serif;
+  color: #e8f1ff;
+  background: #10204a;
+  border: 1px solid #2f5ca8;
+  border-radius: 8px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.45);
+  overflow: hidden;
+}
+
+#exam-autofill-panel header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  font-weight: 700;
+  background: linear-gradient(90deg, #1b3a7a, #2a5cb8);
+}
+
+#exam-autofill-panel header button {
+  width: 22px;
+  height: 22px;
+  padding: 0;
+  color: inherit;
+  background: rgba(255, 255, 255, 0.14);
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#exam-autofill-panel.eaf-collapsed {
+  width: auto;
+  opacity: 0.6;
+}
+
+#exam-autofill-panel.eaf-collapsed [data-role="body"] {
+  display: none;
+}
+
+#exam-autofill-panel [data-role="body"] {
+  display: grid;
+  gap: 8px;
+  padding: 10px 12px 12px;
+}
+
+#exam-autofill-panel .eaf-exams {
+  display: grid;
+  gap: 4px;
+  max-height: 140px;
+  overflow-y: auto;
+}
+
+#exam-autofill-panel .eaf-exams label {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  cursor: pointer;
+}
+
+#exam-autofill-panel .eaf-field {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+#exam-autofill-panel input[type="number"] {
+  width: 72px;
+  padding: 3px 6px;
+  color: inherit;
+  background: #0a1735;
+  border: 1px solid #2f5ca8;
+  border-radius: 4px;
+}
+
+#exam-autofill-panel .eaf-actions {
+  display: flex;
+  gap: 6px;
+}
+
+#exam-autofill-panel .eaf-actions button {
+  flex: 1;
+  padding: 5px 0;
+  color: #e8f1ff;
+  background: #22458c;
+  border: 1px solid #3a6ec4;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#exam-autofill-panel .eaf-actions button:hover:not(:disabled) {
+  background: #2d5cb5;
+}
+
+#exam-autofill-panel .eaf-actions button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+#exam-autofill-panel .eaf-status,
+#exam-autofill-panel .eaf-stats {
+  font-size: 12px;
+  color: #a8c4f0;
+}
+
+#exam-autofill-panel .eaf-bar {
+  height: 6px;
+  overflow: hidden;
+  background: #0a1735;
+  border-radius: 3px;
+}
+
+#exam-autofill-panel .eaf-bar i {
+  display: block;
+  width: 0;
+  height: 100%;
+  background: linear-gradient(90deg, #35b6ff, #6ee7ff);
+  transition: width 0.2s;
+}
+
+#exam-autofill-panel .eaf-log {
+  display: flex;
+  flex-direction: column;
+  max-height: 120px;
+  overflow-y: auto;
+  font-size: 11px;
+  color: #8fa9d8;
+}
+
+#exam-autofill-panel .eaf-log-error {
+  color: #ff8b8b;
+}

@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "模拟训练批量答题助手",
+  "version": "1.0.0",
+  "description": "批量遍历知识练习题目，校正为正确答案并导出题库资料",
+  "content_scripts": [
+    {
+      "matches": ["https://exam.asname.cn/*"],
+      "js": ["content.js"],
+      "css": ["panel.css"],
+      "world": "MAIN",
+      "run_at": "document_idle"
+    }
+  ]
+}
