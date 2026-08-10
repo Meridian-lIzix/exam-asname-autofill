@@ -354,7 +354,12 @@
     el('stop').disabled = true;
     const seconds = Math.round((Date.now() - startedAt) / 1000);
     setStatus(`结束 ${seconds}s：收录 ${totals.resolved}，新答 ${totals.probed}，校正 ${totals.corrected}，失败 ${totals.failed}`);
-    log('任务结束，刷新页面即可看到全部选项已为正确答案');
+    if (totals.failed) {
+      log(`有 ${totals.failed} 次失败，日志保留，请手动刷新页面查看作答结果`, 'error');
+      return;
+    }
+    log('任务结束，1.5 秒后自动刷新页面以显示作答结果');
+    setTimeout(() => location.reload(), 1500);
   }
 
   el('toggle').addEventListener('click', () => {
