@@ -1,14 +1,24 @@
 {
   "manifest_version": 3,
   "name": "模拟训练批量答题助手",
-  "version": "1.0.0",
-  "description": "批量遍历知识练习题目，校正为正确答案并导出题库资料",
+  "version": "2.0.2",
+  "description": "自动识别开放场次，题库匹配与 AI 分组补答，统一导出复习资料",
+  "permissions": ["storage"],
+  "optional_host_permissions": ["https://*/*", "http://localhost/*", "http://127.0.0.1/*"],
+  "background": { "service_worker": "background.js" },
+  "options_ui": { "page": "options.html", "open_in_tab": true },
+  "web_accessible_resources": [
+    {
+      "resources": ["options.html", "options.css", "options.js", "ai-client.js"],
+      "matches": ["https://exam.asname.cn/*"]
+    }
+  ],
   "content_scripts": [
     {
       "matches": ["https://exam.asname.cn/*"],
-      "js": ["content.js"],
+      "js": ["ai-client.js", "core.js", "engine.js", "content.js"],
       "css": ["panel.css"],
-      "world": "MAIN",
+      "world": "ISOLATED",
       "run_at": "document_idle"
     }
   ]

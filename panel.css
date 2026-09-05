@@ -1,16 +1,17 @@
 #exam-autofill-panel {
   position: fixed;
-  right: 16px;
-  bottom: 16px;
+  right: max(16px, env(safe-area-inset-right));
+  bottom: max(16px, env(safe-area-inset-bottom));
   z-index: 2147483647;
-  width: 300px;
+  width: min(360px, calc(100vw - 32px));
+  max-height: calc(100dvh - 32px);
   font: 13px/1.5 "Microsoft YaHei", system-ui, sans-serif;
   color: #e8f1ff;
   background: #10204a;
   border: 1px solid #2f5ca8;
   border-radius: 8px;
   box-shadow: 0 8px 28px rgba(0, 0, 0, 0.45);
-  overflow: hidden;
+  overflow: auto;
 }
 
 #exam-autofill-panel header {
@@ -19,7 +20,7 @@
   justify-content: space-between;
   padding: 8px 12px;
   font-weight: 700;
-  background: linear-gradient(90deg, #1b3a7a, #2a5cb8);
+  background: #1b3a7a;
 }
 
 #exam-autofill-panel header button {
@@ -101,6 +102,120 @@
   cursor: not-allowed;
 }
 
+#exam-autofill-panel .eaf-vault-actions {
+  align-items: stretch;
+}
+
+#exam-autofill-panel .eaf-export-wrap {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+}
+
+#exam-autofill-panel .eaf-export-wrap > button {
+  width: 100%;
+  height: 100%;
+}
+
+#exam-autofill-panel .eaf-export-menu {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: calc(100% + 6px);
+  z-index: 2;
+  display: grid;
+  min-width: 132px;
+  gap: 4px;
+  padding: 6px;
+  background: #0a1735;
+  border: 1px solid #3a6ec4;
+  border-radius: 4px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+}
+
+#exam-autofill-panel .eaf-ai-controls {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+
+#exam-autofill-panel .eaf-ai-controls input {
+  box-sizing: border-box;
+  width: 54px;
+  min-height: 28px;
+  font: inherit;
+}
+
+#exam-autofill-panel .eaf-ai-controls input:disabled {
+  opacity: 0.5;
+}
+
+#exam-autofill-panel .eaf-info {
+  flex: none;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: 1px solid #8fa9d8;
+  border-radius: 50%;
+  background: #0a1735;
+  color: #e8f1ff;
+  font: 700 14px/1 Georgia, serif;
+  cursor: help;
+}
+
+#exam-autofill-panel .eaf-tooltip {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(100% + 6px);
+  z-index: 3;
+  padding: 10px 12px;
+  color: #e8f1ff;
+  background: #0a1735;
+  border: 1px solid #3a6ec4;
+  border-radius: 4px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+  font-size: 12px;
+  overflow-wrap: anywhere;
+}
+
+#exam-autofill-panel .eaf-tooltip::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 100%;
+  height: 6px;
+}
+
+#exam-autofill-panel .eaf-tooltip p {
+  margin: 0;
+}
+
+#exam-autofill-panel .eaf-tooltip p + p {
+  margin-top: 6px;
+}
+
+#exam-autofill-panel .eaf-export-menu button {
+  width: 100%;
+  flex: none;
+  padding: 5px 8px;
+  white-space: nowrap;
+}
+
+#exam-autofill-panel .eaf-file-input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 #exam-autofill-panel .eaf-status,
 #exam-autofill-panel .eaf-stats {
   font-size: 12px;
@@ -116,10 +231,11 @@
 
 #exam-autofill-panel .eaf-bar i {
   display: block;
-  width: 0;
+  width: 100%;
   height: 100%;
-  background: linear-gradient(90deg, #35b6ff, #6ee7ff);
-  transition: width 0.2s;
+  background: #6ac5ff;
+  transform: scaleX(0);
+  transform-origin: left;
 }
 
 #exam-autofill-panel .eaf-log {
@@ -133,4 +249,38 @@
 
 #exam-autofill-panel .eaf-log-error {
   color: #ff8b8b;
+}
+
+#exam-autofill-panel button:focus-visible,
+#exam-autofill-panel input:focus-visible {
+  outline: 2px solid #88c8ff;
+  outline-offset: 2px;
+}
+
+#exam-autofill-panel .eaf-status,
+#exam-autofill-panel .eaf-log,
+#exam-autofill-panel .eaf-exams span {
+  overflow-wrap: anywhere;
+}
+
+#exam-autofill-panel header small {
+  font-size: 10px;
+  font-weight: 400;
+}
+
+#exam-autofill-panel [data-role="ai-frame"] {
+  width: 100%;
+  height: 440px;
+  border: 1px solid #2f5ca8;
+  border-radius: 6px;
+  background: #0a1735;
+}
+
+#exam-autofill-panel [hidden] {
+  display: none;
+}
+
+#exam-autofill-panel .eaf-stats,
+#exam-autofill-panel .eaf-status {
+  font-variant-numeric: tabular-nums;
 }

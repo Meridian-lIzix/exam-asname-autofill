@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>答题助手 · AI 设置</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <main>
+    <h1>AI 补答设置</h1>
+    <p>题库找不到答案时，将题干和选项发送给你配置的模型。默认 30 题/组、并发 2，可在答题面板调整。</p>
+    <form id="settings">
+      <label for="base-url">Base URL</label>
+      <input id="base-url" type="url" placeholder="https://api.example.com/v1" required aria-describedby="base-help">
+      <small id="base-help">填写 OpenAI 兼容接口的基础地址，保留服务要求的路径（例如 /v1）。</small>
+      <label for="api-key">API Key</label>
+      <input id="api-key" type="password" autocomplete="off" spellcheck="false" aria-describedby="key-help">
+      <small id="key-help">仅保存在本机扩展中；不会写入题库或发送给考试网站。本机服务可留空。</small>
+      <label for="model">模型名称</label>
+      <input id="model" type="text" required autocomplete="off" placeholder="填写服务提供的模型 ID">
+      <label class="enabled"><input id="enabled" type="checkbox">启用 AI 补答</label>
+      <small>启用后，点击答题面板的“开始”会按需调用此服务，并可能产生费用。</small>
+      <div class="actions">
+        <button type="submit" id="save">保存设置</button>
+        <button type="button" id="test-ai">测试 AI</button>
+      </div>
+      <small>“测试 AI”使用已保存配置发送 1 道示例题，可能产生费用；不修改考试或题库。</small>
+      <p id="status" role="status" aria-live="polite"></p>
+      <button type="button" id="open-settings" hidden>独立打开设置页</button>
+    </form>
+  </main>
+  <script src="ai-client.js"></script>
+  <script src="options.js"></script>
+</body>
+</html>

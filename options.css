@@ -1,0 +1,26 @@
+:root { color-scheme: dark; font: 15px/1.6 "Microsoft YaHei", system-ui, sans-serif; color: #e8f1ff; background: #0a1735; }
+* { box-sizing: border-box; }
+body { margin: 0; padding: 32px 20px; }
+main { max-width: 560px; margin: 0 auto; }
+h1 { margin: 0 0 12px; font-size: 24px; }
+p, small { color: #b8cbed; }
+form { display: grid; gap: 8px; margin-top: 24px; }
+label { margin-top: 12px; font-weight: 600; }
+input:not([type="checkbox"]) { width: 100%; padding: 10px 12px; border: 1px solid #567ab5; border-radius: 6px; color: inherit; background: #10204a; font: inherit; }
+input:focus-visible, button:focus-visible { outline: 2px solid #88c8ff; outline-offset: 3px; }
+.enabled { display: flex; align-items: center; gap: 8px; }
+input[type="checkbox"] { width: 18px; height: 18px; accent-color: #438ce8; }
+.actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+button { justify-self: start; padding: 10px 24px; border: 1px solid #6597e7; border-radius: 6px; background: #22458c; color: inherit; font: inherit; cursor: pointer; }
+#test-ai { background: #185276; }
+button:disabled { opacity: .55; cursor: wait; }
+#status { min-height: 1.6em; margin: 8px 0; overflow-wrap: anywhere; }
+#status[data-error="true"] { color: #ffaaaa; }
+.embedded { font-size: 12px; }
+.embedded body { padding: 8px 10px; }
+.embedded h1, .embedded main > p { display: none; }
+.embedded form { margin: 0; gap: 5px; }
+.embedded label { margin-top: 5px; }
+.embedded input:not([type="checkbox"]) { padding: 6px 8px; }
+.embedded .actions { margin-top: 8px; }
+.embedded button { padding: 6px 16px; }
