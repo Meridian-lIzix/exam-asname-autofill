@@ -396,8 +396,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 10,
-    "exam_name": "知识练习B",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2624,
     "type": 2,
     "type_name": "多选题",
@@ -426,7 +426,11 @@
     ],
     "score": "2.00",
     "answer": "A,C,E",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,C,E",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.625Z",
+    "submitted_at": "2026-09-06T11:14:01.625Z"
   },
   {
     "exam_id": 10,
@@ -462,8 +466,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 10,
-    "exam_name": "知识练习B",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2626,
     "type": 2,
     "type_name": "多选题",
@@ -492,7 +496,11 @@
     ],
     "score": "2.00",
     "answer": "A,C,E",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,C,E",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.763Z",
+    "submitted_at": "2026-09-06T11:14:01.763Z"
   },
   {
     "exam_id": 10,
@@ -561,8 +569,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 10,
-    "exam_name": "知识练习B",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2629,
     "type": 2,
     "type_name": "多选题",
@@ -591,11 +599,15 @@
     ],
     "score": "2.00",
     "answer": "B,C,E",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B,C,E",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.292Z",
+    "submitted_at": "2026-09-06T11:14:01.291Z"
   },
   {
-    "exam_id": 10,
-    "exam_name": "知识练习B",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2630,
     "type": 2,
     "type_name": "多选题",
@@ -624,7 +636,11 @@
     ],
     "score": "2.00",
     "answer": "A,C,D,E",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,C,D,E",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.877Z",
+    "submitted_at": "2026-09-06T11:14:01.876Z"
   },
   {
     "exam_id": 10,
@@ -1322,8 +1338,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2656,
     "type": 1,
     "type_name": "单选题",
@@ -1348,7 +1364,11 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.683Z",
+    "submitted_at": "2026-09-06T11:14:01.683Z"
   },
   {
     "exam_id": 13,
@@ -1409,8 +1429,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2659,
     "type": 1,
     "type_name": "单选题",
@@ -1435,11 +1455,15 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.155Z",
+    "submitted_at": "2026-09-06T11:14:01.155Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2660,
     "type": 1,
     "type_name": "单选题",
@@ -1464,7 +1488,11 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.867Z",
+    "submitted_at": "2026-09-06T11:14:01.867Z"
   },
   {
     "exam_id": 13,
@@ -2308,8 +2336,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2690,
     "type": 1,
     "type_name": "单选题",
@@ -2334,7 +2362,11 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.301Z",
+    "submitted_at": "2026-09-06T11:14:01.301Z"
   },
   {
     "exam_id": 13,
@@ -2395,8 +2427,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2693,
     "type": 1,
     "type_name": "单选题",
@@ -2421,7 +2453,11 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.637Z",
+    "submitted_at": "2026-09-06T11:14:01.637Z"
   },
   {
     "exam_id": 13,
@@ -2453,8 +2489,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2695,
     "type": 1,
     "type_name": "单选题",
@@ -2479,7 +2515,11 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.775Z",
+    "submitted_at": "2026-09-06T11:14:01.775Z"
   },
   {
     "exam_id": 13,
@@ -3178,8 +3218,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2720,
     "type": 1,
     "type_name": "单选题",
@@ -3204,11 +3244,15 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.921Z",
+    "submitted_at": "2026-09-06T11:14:01.920Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2721,
     "type": 1,
     "type_name": "单选题",
@@ -3233,11 +3277,15 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.440Z",
+    "submitted_at": "2026-09-06T11:14:01.440Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2722,
     "type": 1,
     "type_name": "单选题",
@@ -3262,7 +3310,11 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.786Z",
+    "submitted_at": "2026-09-06T11:14:01.785Z"
   },
   {
     "exam_id": 13,
@@ -3294,8 +3346,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2724,
     "type": 1,
     "type_name": "单选题",
@@ -3320,7 +3372,11 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.719Z",
+    "submitted_at": "2026-09-06T11:14:01.719Z"
   },
   {
     "exam_id": 13,
@@ -3903,8 +3959,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2745,
     "type": 1,
     "type_name": "单选题",
@@ -3929,7 +3985,11 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.967Z",
+    "submitted_at": "2026-09-06T11:14:01.966Z"
   },
   {
     "exam_id": 13,
@@ -4019,8 +4079,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2749,
     "type": 1,
     "type_name": "单选题",
@@ -4045,11 +4105,15 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.489Z",
+    "submitted_at": "2026-09-06T11:14:01.489Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2750,
     "type": 1,
     "type_name": "单选题",
@@ -4074,7 +4138,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.581Z",
+    "submitted_at": "2026-09-06T11:14:01.581Z"
   },
   {
     "exam_id": 13,
@@ -4599,8 +4667,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2769,
     "type": 1,
     "type_name": "单选题",
@@ -4625,11 +4693,15 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.946Z",
+    "submitted_at": "2026-09-06T11:14:01.946Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2770,
     "type": 1,
     "type_name": "单选题",
@@ -4654,7 +4726,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.592Z",
+    "submitted_at": "2026-09-06T11:14:01.592Z"
   },
   {
     "exam_id": 13,
@@ -4715,8 +4791,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2773,
     "type": 1,
     "type_name": "单选题",
@@ -4741,7 +4817,11 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.499Z",
+    "submitted_at": "2026-09-06T11:14:01.499Z"
   },
   {
     "exam_id": 13,
@@ -5092,8 +5172,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2786,
     "type": 1,
     "type_name": "单选题",
@@ -5118,11 +5198,15 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.225Z",
+    "submitted_at": "2026-09-06T11:14:01.225Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2787,
     "type": 1,
     "type_name": "单选题",
@@ -5147,7 +5231,11 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.752Z",
+    "submitted_at": "2026-09-06T11:14:01.752Z"
   },
   {
     "exam_id": 13,
@@ -5179,8 +5267,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2789,
     "type": 1,
     "type_name": "单选题",
@@ -5205,11 +5293,15 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.601Z",
+    "submitted_at": "2026-09-06T11:14:01.601Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2790,
     "type": 3,
     "type_name": "判断题",
@@ -5226,7 +5318,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.659Z",
+    "submitted_at": "2026-09-06T11:14:01.658Z"
   },
   {
     "exam_id": 13,
@@ -5397,8 +5493,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2799,
     "type": 3,
     "type_name": "判断题",
@@ -5415,11 +5511,15 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.991Z",
+    "submitted_at": "2026-09-06T11:14:01.991Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2800,
     "type": 3,
     "type_name": "判断题",
@@ -5436,7 +5536,11 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.571Z",
+    "submitted_at": "2026-09-06T11:14:01.571Z"
   },
   {
     "exam_id": 13,
@@ -5460,8 +5564,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2802,
     "type": 3,
     "type_name": "判断题",
@@ -5478,7 +5582,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.797Z",
+    "submitted_at": "2026-09-06T11:14:01.797Z"
   },
   {
     "exam_id": 13,
@@ -5502,8 +5610,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2804,
     "type": 3,
     "type_name": "判断题",
@@ -5520,7 +5628,11 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.896Z",
+    "submitted_at": "2026-09-06T11:14:01.896Z"
   },
   {
     "exam_id": 13,
@@ -5670,8 +5782,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2812,
     "type": 3,
     "type_name": "判断题",
@@ -5688,11 +5800,15 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.956Z",
+    "submitted_at": "2026-09-06T11:14:01.955Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2813,
     "type": 3,
     "type_name": "判断题",
@@ -5709,11 +5825,15 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.806Z",
+    "submitted_at": "2026-09-06T11:14:01.806Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2814,
     "type": 3,
     "type_name": "判断题",
@@ -5730,7 +5850,11 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.937Z",
+    "submitted_at": "2026-09-06T11:14:01.937Z"
   },
   {
     "exam_id": 13,
@@ -5754,8 +5878,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2816,
     "type": 3,
     "type_name": "判断题",
@@ -5772,7 +5896,11 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.384Z",
+    "submitted_at": "2026-09-06T11:14:01.384Z"
   },
   {
     "exam_id": 13,
@@ -5796,8 +5924,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2818,
     "type": 3,
     "type_name": "判断题",
@@ -5814,7 +5942,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.535Z",
+    "submitted_at": "2026-09-06T11:14:01.535Z"
   },
   {
     "exam_id": 13,
@@ -6027,8 +6159,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2829,
     "type": 3,
     "type_name": "判断题",
@@ -6045,7 +6177,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.705Z",
+    "submitted_at": "2026-09-06T11:14:01.705Z"
   },
   {
     "exam_id": 13,
@@ -6069,8 +6205,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2831,
     "type": 3,
     "type_name": "判断题",
@@ -6087,7 +6223,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.817Z",
+    "submitted_at": "2026-09-06T11:14:01.817Z"
   },
   {
     "exam_id": 13,
@@ -6111,8 +6251,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2833,
     "type": 3,
     "type_name": "判断题",
@@ -6129,7 +6269,11 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.908Z",
+    "submitted_at": "2026-09-06T11:14:01.908Z"
   },
   {
     "exam_id": 13,
@@ -6345,8 +6489,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2843,
     "type": 2,
     "type_name": "多选题",
@@ -6375,7 +6519,11 @@
     ],
     "score": "2.00",
     "answer": "A,C,D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,C,D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.416Z",
+    "submitted_at": "2026-09-06T11:14:01.416Z"
   },
   {
     "exam_id": 13,
@@ -6411,8 +6559,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2845,
     "type": 2,
     "type_name": "多选题",
@@ -6441,11 +6589,15 @@
     ],
     "score": "2.00",
     "answer": "A,B,C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.671Z",
+    "submitted_at": "2026-09-06T11:14:01.671Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2846,
     "type": 2,
     "type_name": "多选题",
@@ -6474,11 +6626,15 @@
     ],
     "score": "2.00",
     "answer": "A,C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.693Z",
+    "submitted_at": "2026-09-06T11:14:01.693Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2847,
     "type": 2,
     "type_name": "多选题",
@@ -6507,7 +6663,11 @@
     ],
     "score": "2.00",
     "answer": "B,C,D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B,C,D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.841Z",
+    "submitted_at": "2026-09-06T11:14:01.841Z"
   },
   {
     "exam_id": 13,
@@ -6543,8 +6703,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2849,
     "type": 2,
     "type_name": "多选题",
@@ -6573,7 +6733,11 @@
     ],
     "score": "2.00",
     "answer": "A,B,D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.427Z",
+    "submitted_at": "2026-09-06T11:14:01.427Z"
   },
   {
     "exam_id": 13,
@@ -6642,8 +6806,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2852,
     "type": 2,
     "type_name": "多选题",
@@ -6672,7 +6836,11 @@
     ],
     "score": "2.00",
     "answer": "A,B,C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:02.011Z",
+    "submitted_at": "2026-09-06T11:14:02.011Z"
   },
   {
     "exam_id": 13,
@@ -6741,8 +6909,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2855,
     "type": 2,
     "type_name": "多选题",
@@ -6771,11 +6939,15 @@
     ],
     "score": "2.00",
     "answer": "A,B,D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:02.019Z",
+    "submitted_at": "2026-09-06T11:14:02.019Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2856,
     "type": 2,
     "type_name": "多选题",
@@ -6804,11 +6976,15 @@
     ],
     "score": "2.00",
     "answer": "A,B,E",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,E",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.730Z",
+    "submitted_at": "2026-09-06T11:14:01.730Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2857,
     "type": 2,
     "type_name": "多选题",
@@ -6837,7 +7013,11 @@
     ],
     "score": "2.00",
     "answer": "A,B,C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.854Z",
+    "submitted_at": "2026-09-06T11:14:01.854Z"
   },
   {
     "exam_id": 13,
@@ -6873,8 +7053,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2859,
     "type": 2,
     "type_name": "多选题",
@@ -6903,7 +7083,11 @@
     ],
     "score": "2.00",
     "answer": "A,B,D,E",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,D,E",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.464Z",
+    "submitted_at": "2026-09-06T11:14:01.464Z"
   },
   {
     "exam_id": 13,
@@ -7005,8 +7189,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2863,
     "type": 2,
     "type_name": "多选题",
@@ -7035,7 +7219,11 @@
     ],
     "score": "2.00",
     "answer": "A,B,C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.263Z",
+    "submitted_at": "2026-09-06T11:14:01.263Z"
   },
   {
     "exam_id": 13,
@@ -7071,8 +7259,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2865,
     "type": 2,
     "type_name": "多选题",
@@ -7101,11 +7289,15 @@
     ],
     "score": "2.00",
     "answer": "A,B,C,D,E",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,C,D,E",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.613Z",
+    "submitted_at": "2026-09-06T11:14:01.612Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2866,
     "type": 2,
     "type_name": "多选题",
@@ -7134,7 +7326,11 @@
     ],
     "score": "2.00",
     "answer": "A,B,C,D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,C,D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.350Z",
+    "submitted_at": "2026-09-06T11:14:01.349Z"
   },
   {
     "exam_id": 13,
@@ -7203,8 +7399,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2869,
     "type": 2,
     "type_name": "多选题",
@@ -7233,7 +7429,11 @@
     ],
     "score": "2.00",
     "answer": "A,B,C,E",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,C,E",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.742Z",
+    "submitted_at": "2026-09-06T11:14:01.741Z"
   },
   {
     "exam_id": 13,
@@ -7269,8 +7469,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2871,
     "type": 2,
     "type_name": "多选题",
@@ -7299,7 +7499,11 @@
     ],
     "score": "2.00",
     "answer": "A,B,D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.236Z",
+    "submitted_at": "2026-09-06T11:14:01.235Z"
   },
   {
     "exam_id": 13,
@@ -7335,8 +7539,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2873,
     "type": 2,
     "type_name": "多选题",
@@ -7365,11 +7569,15 @@
     ],
     "score": "2.00",
     "answer": "A,B,D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.979Z",
+    "submitted_at": "2026-09-06T11:14:01.979Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2874,
     "type": 2,
     "type_name": "多选题",
@@ -7398,7 +7606,11 @@
     ],
     "score": "2.00",
     "answer": "A,C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.511Z",
+    "submitted_at": "2026-09-06T11:14:01.511Z"
   },
   {
     "exam_id": 13,
@@ -7434,8 +7646,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2876,
     "type": 2,
     "type_name": "多选题",
@@ -7464,11 +7676,15 @@
     ],
     "score": "2.00",
     "answer": "A,B,C,D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,C,D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.828Z",
+    "submitted_at": "2026-09-06T11:14:01.828Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2877,
     "type": 2,
     "type_name": "多选题",
@@ -7497,11 +7713,15 @@
     ],
     "score": "2.00",
     "answer": "A,B,C,D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,C,D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.452Z",
+    "submitted_at": "2026-09-06T11:14:01.452Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2878,
     "type": 2,
     "type_name": "多选题",
@@ -7530,11 +7750,15 @@
     ],
     "score": "2.00",
     "answer": "C,D,E",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "C,D,E",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.375Z",
+    "submitted_at": "2026-09-06T11:14:01.375Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2879,
     "type": 2,
     "type_name": "多选题",
@@ -7563,7 +7787,11 @@
     ],
     "score": "2.00",
     "answer": "A,B,C",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.888Z",
+    "submitted_at": "2026-09-06T11:14:01.888Z"
   },
   {
     "exam_id": 13,
@@ -7665,8 +7893,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2883,
     "type": 2,
     "type_name": "多选题",
@@ -7695,11 +7923,15 @@
     ],
     "score": "2.00",
     "answer": "A,B,D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,B,D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.311Z",
+    "submitted_at": "2026-09-06T11:14:01.311Z"
   },
   {
-    "exam_id": 13,
-    "exam_name": "知识练习E",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2884,
     "type": 2,
     "type_name": "多选题",
@@ -7728,7 +7960,11 @@
     ],
     "score": "2.00",
     "answer": "A,C,D",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A,C,D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.522Z",
+    "submitted_at": "2026-09-06T11:14:01.522Z"
   },
   {
     "exam_id": 13,
@@ -7962,8 +8198,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 12,
-    "exam_name": "知识练习D",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2892,
     "type": 1,
     "type_name": "单选题",
@@ -7988,11 +8224,15 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.561Z",
+    "submitted_at": "2026-09-06T11:14:01.560Z"
   },
   {
-    "exam_id": 12,
-    "exam_name": "知识练习D",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2893,
     "type": 1,
     "type_name": "单选题",
@@ -8017,7 +8257,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.649Z",
+    "submitted_at": "2026-09-06T11:14:01.648Z"
   },
   {
     "exam_id": 12,
@@ -8049,8 +8293,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 12,
-    "exam_name": "知识练习D",
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
     "question_id": 2895,
     "type": 1,
     "type_name": "单选题",
@@ -8075,7 +8319,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official"
+    "answer_source": "official",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:01.362Z",
+    "submitted_at": "2026-09-06T11:14:01.361Z"
   },
   {
     "exam_id": 12,
@@ -9702,9 +9950,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 9,
-    "exam_name": "知识练习A",
-    "question_id": 3664,
+    "exam_id": 12,
+    "exam_name": "知识练习D",
+    "question_id": 2952,
     "type": 1,
     "type_name": "单选题",
     "question": "依据《网络安全法》，网络产品漏洞应在确认后（）日内报工信部。",
@@ -12396,9 +12644,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 9,
-    "exam_name": "知识练习A",
-    "question_id": 3760,
+    "exam_id": 12,
+    "exam_name": "知识练习D",
+    "question_id": 3046,
     "type": 3,
     "type_name": "判断题",
     "question": "职业道德规范中“爱岗敬业”允许为效率目标忽略安全操作流程。（）",
@@ -12459,9 +12707,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 9,
-    "exam_name": "知识练习A",
-    "question_id": 3762,
+    "exam_id": 12,
+    "exam_name": "知识练习D",
+    "question_id": 3049,
     "type": 3,
     "type_name": "判断题",
     "question": "数据安全管理员仅需遵守《数据安全法》，其他法律可忽略。（）",
@@ -13047,9 +13295,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 9,
-    "exam_name": "知识练习A",
-    "question_id": 3786,
+    "exam_id": 12,
+    "exam_name": "知识练习D",
+    "question_id": 3077,
     "type": 3,
     "type_name": "判断题",
     "question": "《数据安全法》要求重要数据出境需通过安全评估。（）",
@@ -13089,9 +13337,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 9,
-    "exam_name": "知识练习A",
-    "question_id": 3787,
+    "exam_id": 12,
+    "exam_name": "知识练习D",
+    "question_id": 3079,
     "type": 3,
     "type_name": "判断题",
     "question": "《密码法》规定商用密码可用于保护国家秘密。（）",
@@ -15642,8 +15890,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3172,
     "type": 1,
     "type_name": "单选题",
@@ -15668,11 +15916,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:16.111Z",
-    "submitted_at": "2026-09-05T11:39:16.111Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -15704,8 +15948,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3174,
     "type": 1,
     "type_name": "单选题",
@@ -15730,11 +15974,7 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official",
-    "submitted_answer": "D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.734Z",
-    "submitted_at": "2026-09-05T11:39:15.733Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -15766,8 +16006,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3176,
     "type": 1,
     "type_name": "单选题",
@@ -15792,11 +16032,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.280Z",
-    "submitted_at": "2026-09-05T11:39:15.280Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -15915,8 +16151,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3181,
     "type": 1,
     "type_name": "单选题",
@@ -15941,15 +16177,11 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.965Z",
-    "submitted_at": "2026-09-05T11:39:14.965Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3182,
     "type": 1,
     "type_name": "单选题",
@@ -15974,15 +16206,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.362Z",
-    "submitted_at": "2026-09-05T11:39:15.362Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3183,
     "type": 1,
     "type_name": "单选题",
@@ -16007,11 +16235,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.341Z",
-    "submitted_at": "2026-09-05T11:39:15.341Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -16043,8 +16267,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3185,
     "type": 1,
     "type_name": "单选题",
@@ -16069,15 +16293,11 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official",
-    "submitted_answer": "D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.466Z",
-    "submitted_at": "2026-09-05T11:39:15.466Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3186,
     "type": 1,
     "type_name": "单选题",
@@ -16102,11 +16322,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.385Z",
-    "submitted_at": "2026-09-05T11:39:15.385Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -16254,8 +16470,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3192,
     "type": 1,
     "type_name": "单选题",
@@ -16280,11 +16496,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.014Z",
-    "submitted_at": "2026-09-05T11:39:15.014Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -16345,8 +16557,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3195,
     "type": 1,
     "type_name": "单选题",
@@ -16371,11 +16583,7 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official",
-    "submitted_answer": "D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:16.048Z",
-    "submitted_at": "2026-09-05T11:39:16.048Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -16407,8 +16615,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3197,
     "type": 1,
     "type_name": "单选题",
@@ -16433,11 +16641,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.182Z",
-    "submitted_at": "2026-09-05T11:39:15.182Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -16556,8 +16760,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3202,
     "type": 1,
     "type_name": "单选题",
@@ -16582,11 +16786,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.954Z",
-    "submitted_at": "2026-09-05T11:39:14.954Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -16618,8 +16818,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3204,
     "type": 1,
     "type_name": "单选题",
@@ -16644,11 +16844,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.213Z",
-    "submitted_at": "2026-09-05T11:39:15.213Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -16680,8 +16876,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3206,
     "type": 1,
     "type_name": "单选题",
@@ -16706,11 +16902,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.796Z",
-    "submitted_at": "2026-09-05T11:39:15.796Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -16771,8 +16963,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3209,
     "type": 1,
     "type_name": "单选题",
@@ -16797,11 +16989,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.525Z",
-    "submitted_at": "2026-09-05T11:39:15.525Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -16833,8 +17021,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3211,
     "type": 1,
     "type_name": "单选题",
@@ -16859,15 +17047,11 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.872Z",
-    "submitted_at": "2026-09-05T11:39:14.872Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3212,
     "type": 1,
     "type_name": "单选题",
@@ -16892,11 +17076,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.222Z",
-    "submitted_at": "2026-09-05T11:39:15.222Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -16986,8 +17166,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3216,
     "type": 1,
     "type_name": "单选题",
@@ -17012,15 +17192,11 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.054Z",
-    "submitted_at": "2026-09-05T11:39:15.054Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3217,
     "type": 1,
     "type_name": "单选题",
@@ -17045,11 +17221,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.945Z",
-    "submitted_at": "2026-09-05T11:39:15.945Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -17081,8 +17253,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3219,
     "type": 1,
     "type_name": "单选题",
@@ -17107,11 +17279,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.703Z",
-    "submitted_at": "2026-09-05T11:39:15.703Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -17143,8 +17311,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3221,
     "type": 1,
     "type_name": "单选题",
@@ -17169,11 +17337,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:16.081Z",
-    "submitted_at": "2026-09-05T11:39:16.081Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -17350,8 +17514,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3228,
     "type": 1,
     "type_name": "单选题",
@@ -17376,11 +17540,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.739Z",
-    "submitted_at": "2026-09-05T11:39:14.739Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -17412,8 +17572,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3230,
     "type": 1,
     "type_name": "单选题",
@@ -17438,15 +17598,11 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official",
-    "submitted_answer": "D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:16.036Z",
-    "submitted_at": "2026-09-05T11:39:16.036Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3231,
     "type": 1,
     "type_name": "单选题",
@@ -17471,11 +17627,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.788Z",
-    "submitted_at": "2026-09-05T11:39:14.788Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -17739,8 +17891,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3241,
     "type": 1,
     "type_name": "单选题",
@@ -17765,11 +17917,7 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official",
-    "submitted_answer": "D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.628Z",
-    "submitted_at": "2026-09-05T11:39:14.628Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -17830,8 +17978,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3244,
     "type": 1,
     "type_name": "单选题",
@@ -17856,11 +18004,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.202Z",
-    "submitted_at": "2026-09-05T11:39:15.202Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -18153,8 +18297,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3255,
     "type": 1,
     "type_name": "单选题",
@@ -18179,11 +18323,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.849Z",
-    "submitted_at": "2026-09-05T11:39:14.849Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -18244,8 +18384,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3258,
     "type": 1,
     "type_name": "单选题",
@@ -18270,11 +18410,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.137Z",
-    "submitted_at": "2026-09-05T11:39:15.137Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -18451,8 +18587,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3265,
     "type": 1,
     "type_name": "单选题",
@@ -18477,15 +18613,11 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.193Z",
-    "submitted_at": "2026-09-05T11:39:15.193Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3266,
     "type": 1,
     "type_name": "单选题",
@@ -18510,11 +18642,7 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official",
-    "submitted_answer": "D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.861Z",
-    "submitted_at": "2026-09-05T11:39:14.861Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -18575,8 +18703,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3269,
     "type": 1,
     "type_name": "单选题",
@@ -18601,11 +18729,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.552Z",
-    "submitted_at": "2026-09-05T11:39:15.552Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -18637,9 +18761,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 9,
-    "exam_name": "知识练习A",
-    "question_id": 3616,
+    "exam_id": 11,
+    "exam_name": "知识练习C",
+    "question_id": 3271,
     "type": 1,
     "type_name": "单选题",
     "question": "职业责任与职业纪律的本质区别在于（）。",
@@ -18724,9 +18848,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 9,
-    "exam_name": "知识练习A",
-    "question_id": 3618,
+    "exam_id": 11,
+    "exam_name": "知识练习C",
+    "question_id": 3274,
     "type": 1,
     "type_name": "单选题",
     "question": "职业道德的特征之一是（）。",
@@ -18753,8 +18877,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3275,
     "type": 1,
     "type_name": "单选题",
@@ -18779,11 +18903,7 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official",
-    "submitted_answer": "D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.884Z",
-    "submitted_at": "2026-09-05T11:39:14.884Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -18815,8 +18935,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3277,
     "type": 1,
     "type_name": "单选题",
@@ -18841,15 +18961,11 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.751Z",
-    "submitted_at": "2026-09-05T11:39:15.751Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3278,
     "type": 1,
     "type_name": "单选题",
@@ -18877,8 +18993,8 @@
     "answer_source": "official",
     "submitted_answer": "A",
     "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.637Z",
-    "submitted_at": "2026-09-05T11:39:15.636Z"
+    "updated_at": "2026-09-05T11:56:57.805Z",
+    "submitted_at": "2026-09-05T11:56:57.805Z"
   },
   {
     "exam_id": 11,
@@ -18910,9 +19026,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 9,
-    "exam_name": "知识练习A",
-    "question_id": 3621,
+    "exam_id": 11,
+    "exam_name": "知识练习C",
+    "question_id": 3280,
     "type": 1,
     "type_name": "单选题",
     "question": "认真负责、团结协作的工作态度能够（）。",
@@ -19026,9 +19142,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 9,
-    "exam_name": "知识练习A",
-    "question_id": 3625,
+    "exam_id": 11,
+    "exam_name": "知识练习C",
+    "question_id": 3284,
     "type": 1,
     "type_name": "单选题",
     "question": "“诚实守信”原则在数据泄露事件中最优先的要求是（）。",
@@ -19229,8 +19345,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3291,
     "type": 1,
     "type_name": "单选题",
@@ -19255,11 +19371,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.944Z",
-    "submitted_at": "2026-09-05T11:39:14.944Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -19283,8 +19395,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3293,
     "type": 3,
     "type_name": "判断题",
@@ -19301,11 +19413,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.311Z",
-    "submitted_at": "2026-09-05T11:39:15.311Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -19350,8 +19458,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3296,
     "type": 3,
     "type_name": "判断题",
@@ -19368,11 +19476,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.065Z",
-    "submitted_at": "2026-09-05T11:39:15.065Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -19438,8 +19542,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3300,
     "type": 3,
     "type_name": "判断题",
@@ -19456,11 +19560,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.093Z",
-    "submitted_at": "2026-09-05T11:39:15.093Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -19484,8 +19584,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3302,
     "type": 3,
     "type_name": "判断题",
@@ -19502,11 +19602,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.107Z",
-    "submitted_at": "2026-09-05T11:39:15.107Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -19530,8 +19626,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3304,
     "type": 3,
     "type_name": "判断题",
@@ -19548,11 +19644,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.975Z",
-    "submitted_at": "2026-09-05T11:39:14.975Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -19597,8 +19689,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3307,
     "type": 3,
     "type_name": "判断题",
@@ -19615,11 +19707,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.301Z",
-    "submitted_at": "2026-09-05T11:39:15.301Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -19664,8 +19752,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3310,
     "type": 3,
     "type_name": "判断题",
@@ -19682,15 +19770,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.421Z",
-    "submitted_at": "2026-09-05T11:39:15.421Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3311,
     "type": 3,
     "type_name": "判断题",
@@ -19707,11 +19791,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.395Z",
-    "submitted_at": "2026-09-05T11:39:15.395Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -19756,8 +19836,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3314,
     "type": 3,
     "type_name": "判断题",
@@ -19774,11 +19854,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.290Z",
-    "submitted_at": "2026-09-05T11:39:15.290Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -19823,8 +19899,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3317,
     "type": 3,
     "type_name": "判断题",
@@ -19841,15 +19917,11 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.806Z",
-    "submitted_at": "2026-09-05T11:39:15.806Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3318,
     "type": 3,
     "type_name": "判断题",
@@ -19866,11 +19938,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.897Z",
-    "submitted_at": "2026-09-05T11:39:14.896Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -19915,8 +19983,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3321,
     "type": 3,
     "type_name": "判断题",
@@ -19933,11 +20001,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.352Z",
-    "submitted_at": "2026-09-05T11:39:15.352Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -19961,8 +20025,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3323,
     "type": 3,
     "type_name": "判断题",
@@ -19979,15 +20043,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.579Z",
-    "submitted_at": "2026-09-05T11:39:14.578Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3324,
     "type": 3,
     "type_name": "判断题",
@@ -20004,11 +20064,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.708Z",
-    "submitted_at": "2026-09-05T11:39:14.708Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -20074,8 +20130,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3328,
     "type": 3,
     "type_name": "判断题",
@@ -20092,15 +20148,11 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:16.148Z",
-    "submitted_at": "2026-09-05T11:39:16.148Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3329,
     "type": 3,
     "type_name": "判断题",
@@ -20117,11 +20169,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.432Z",
-    "submitted_at": "2026-09-05T11:39:15.432Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -20145,8 +20193,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3331,
     "type": 3,
     "type_name": "判断题",
@@ -20163,11 +20211,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.651Z",
-    "submitted_at": "2026-09-05T11:39:15.651Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -20191,8 +20235,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3333,
     "type": 3,
     "type_name": "判断题",
@@ -20209,11 +20253,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.934Z",
-    "submitted_at": "2026-09-05T11:39:14.934Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -20384,8 +20424,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3342,
     "type": 3,
     "type_name": "判断题",
@@ -20402,11 +20442,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.908Z",
-    "submitted_at": "2026-09-05T11:39:14.908Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -20451,8 +20487,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3345,
     "type": 3,
     "type_name": "判断题",
@@ -20469,15 +20505,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.876Z",
-    "submitted_at": "2026-09-05T11:39:15.876Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3346,
     "type": 3,
     "type_name": "判断题",
@@ -20494,15 +20526,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.116Z",
-    "submitted_at": "2026-09-05T11:39:15.116Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3347,
     "type": 3,
     "type_name": "判断题",
@@ -20519,11 +20547,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.799Z",
-    "submitted_at": "2026-09-05T11:39:14.799Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -20568,8 +20592,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3350,
     "type": 3,
     "type_name": "判断题",
@@ -20586,11 +20610,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.866Z",
-    "submitted_at": "2026-09-05T11:39:15.866Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -20647,8 +20667,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3353,
     "type": 2,
     "type_name": "多选题",
@@ -20677,15 +20697,11 @@
     ],
     "score": "2.00",
     "answer": "A,B,D",
-    "answer_source": "official",
-    "submitted_answer": "A,B,D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.024Z",
-    "submitted_at": "2026-09-05T11:39:15.024Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3354,
     "type": 2,
     "type_name": "多选题",
@@ -20714,11 +20730,7 @@
     ],
     "score": "2.00",
     "answer": "A,D",
-    "answer_source": "official",
-    "submitted_answer": "A,D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.718Z",
-    "submitted_at": "2026-09-05T11:39:14.718Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -20754,8 +20766,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3356,
     "type": 2,
     "type_name": "多选题",
@@ -20784,15 +20796,11 @@
     ],
     "score": "2.00",
     "answer": "A,C,E",
-    "answer_source": "official",
-    "submitted_answer": "A,C,E",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.577Z",
-    "submitted_at": "2026-09-05T11:39:15.577Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3357,
     "type": 2,
     "type_name": "多选题",
@@ -20821,11 +20829,7 @@
     ],
     "score": "2.00",
     "answer": "A,B,D",
-    "answer_source": "official",
-    "submitted_answer": "A,B,D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.035Z",
-    "submitted_at": "2026-09-05T11:39:15.035Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -20861,8 +20865,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3359,
     "type": 2,
     "type_name": "多选题",
@@ -20891,11 +20895,7 @@
     ],
     "score": "2.00",
     "answer": "A,B,C,E",
-    "answer_source": "official",
-    "submitted_answer": "A,B,C,E",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.823Z",
-    "submitted_at": "2026-09-05T11:39:14.823Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -20997,8 +20997,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3363,
     "type": 2,
     "type_name": "多选题",
@@ -21027,11 +21027,7 @@
     ],
     "score": "2.00",
     "answer": "A,C,E",
-    "answer_source": "official",
-    "submitted_answer": "A,C,E",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.128Z",
-    "submitted_at": "2026-09-05T11:39:15.128Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -21100,8 +21096,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3366,
     "type": 2,
     "type_name": "多选题",
@@ -21130,15 +21126,11 @@
     ],
     "score": "2.00",
     "answer": "A,B",
-    "answer_source": "official",
-    "submitted_answer": "A,B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.476Z",
-    "submitted_at": "2026-09-05T11:39:15.476Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3367,
     "type": 2,
     "type_name": "多选题",
@@ -21167,11 +21159,7 @@
     ],
     "score": "2.00",
     "answer": "A,B",
-    "answer_source": "official",
-    "submitted_answer": "A,B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.829Z",
-    "submitted_at": "2026-09-05T11:39:15.829Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -21207,8 +21195,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3369,
     "type": 2,
     "type_name": "多选题",
@@ -21237,15 +21225,11 @@
     ],
     "score": "2.00",
     "answer": "A,C,E",
-    "answer_source": "official",
-    "submitted_answer": "A,C,E",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.500Z",
-    "submitted_at": "2026-09-05T11:39:15.500Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3370,
     "type": 2,
     "type_name": "多选题",
@@ -21274,11 +21258,7 @@
     ],
     "score": "2.00",
     "answer": "A,B,C,D",
-    "answer_source": "official",
-    "submitted_answer": "A,B,C,D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:16.026Z",
-    "submitted_at": "2026-09-05T11:39:16.025Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -21314,8 +21294,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3372,
     "type": 2,
     "type_name": "多选题",
@@ -21344,11 +21324,7 @@
     ],
     "score": "2.00",
     "answer": "B,C,D,E",
-    "answer_source": "official",
-    "submitted_answer": "B,C,D,E",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.537Z",
-    "submitted_at": "2026-09-05T11:39:15.537Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -21384,8 +21360,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3374,
     "type": 2,
     "type_name": "多选题",
@@ -21414,11 +21390,7 @@
     ],
     "score": "2.00",
     "answer": "A,B",
-    "answer_source": "official",
-    "submitted_answer": "A,B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.770Z",
-    "submitted_at": "2026-09-05T11:39:14.770Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -21454,8 +21426,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3376,
     "type": 2,
     "type_name": "多选题",
@@ -21484,15 +21456,11 @@
     ],
     "score": "2.00",
     "answer": "A,B,D",
-    "answer_source": "official",
-    "submitted_answer": "A,B,D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.987Z",
-    "submitted_at": "2026-09-05T11:39:14.987Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3377,
     "type": 2,
     "type_name": "多选题",
@@ -21521,11 +21489,7 @@
     ],
     "score": "2.00",
     "answer": "A,B,C,E",
-    "answer_source": "official",
-    "submitted_answer": "A,B,C,E",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.819Z",
-    "submitted_at": "2026-09-05T11:39:15.819Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -21594,8 +21558,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 11,
+    "exam_name": "知识练习C",
     "question_id": 3380,
     "type": 2,
     "type_name": "多选题",
@@ -21624,11 +21588,7 @@
     ],
     "score": "2.00",
     "answer": "A,B,D,E",
-    "answer_source": "official",
-    "submitted_answer": "A,B,D,E",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:16.124Z",
-    "submitted_at": "2026-09-05T11:39:16.124Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 11,
@@ -21664,8 +21624,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3382,
     "type": 1,
     "type_name": "单选题",
@@ -21690,11 +21650,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.624Z",
-    "submitted_at": "2026-09-05T11:39:15.624Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -21726,8 +21682,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3384,
     "type": 1,
     "type_name": "单选题",
@@ -21752,11 +21708,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.447Z",
-    "submitted_at": "2026-09-05T11:39:15.446Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -21817,8 +21769,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3387,
     "type": 1,
     "type_name": "单选题",
@@ -21843,11 +21795,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.592Z",
-    "submitted_at": "2026-09-05T11:39:15.592Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -21879,8 +21827,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3389,
     "type": 1,
     "type_name": "单选题",
@@ -21905,11 +21853,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.372Z",
-    "submitted_at": "2026-09-05T11:39:15.372Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -23217,8 +23161,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3435,
     "type": 1,
     "type_name": "单选题",
@@ -23243,11 +23187,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.269Z",
-    "submitted_at": "2026-09-05T11:39:15.269Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -23279,8 +23219,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3437,
     "type": 1,
     "type_name": "单选题",
@@ -23305,11 +23245,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:16.135Z",
-    "submitted_at": "2026-09-05T11:39:16.135Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -23341,8 +23277,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3439,
     "type": 1,
     "type_name": "单选题",
@@ -23367,11 +23303,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.671Z",
-    "submitted_at": "2026-09-05T11:39:15.671Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -24447,8 +24379,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3477,
     "type": 1,
     "type_name": "单选题",
@@ -24473,11 +24405,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.689Z",
-    "submitted_at": "2026-09-05T11:39:15.689Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -24509,8 +24437,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3479,
     "type": 1,
     "type_name": "单选题",
@@ -24535,11 +24463,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.779Z",
-    "submitted_at": "2026-09-05T11:39:14.779Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -24600,8 +24524,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3482,
     "type": 1,
     "type_name": "单选题",
@@ -24626,11 +24550,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.637Z",
-    "submitted_at": "2026-09-05T11:39:14.637Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -24836,8 +24756,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3490,
     "type": 1,
     "type_name": "单选题",
@@ -24862,15 +24782,11 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.456Z",
-    "submitted_at": "2026-09-05T11:39:15.456Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3491,
     "type": 1,
     "type_name": "单选题",
@@ -24895,11 +24811,7 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official",
-    "submitted_answer": "D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.787Z",
-    "submitted_at": "2026-09-05T11:39:15.787Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -24931,8 +24843,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3493,
     "type": 1,
     "type_name": "单选题",
@@ -24957,15 +24869,11 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.812Z",
-    "submitted_at": "2026-09-05T11:39:14.812Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3494,
     "type": 1,
     "type_name": "单选题",
@@ -24990,11 +24898,7 @@
     ],
     "score": "1.00",
     "answer": "C",
-    "answer_source": "official",
-    "submitted_answer": "C",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:16.060Z",
-    "submitted_at": "2026-09-05T11:39:16.060Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -25258,8 +25162,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3504,
     "type": 1,
     "type_name": "单选题",
@@ -25284,11 +25188,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.956Z",
-    "submitted_at": "2026-09-05T11:39:15.956Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -25320,8 +25220,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3506,
     "type": 1,
     "type_name": "单选题",
@@ -25346,11 +25246,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.899Z",
-    "submitted_at": "2026-09-05T11:39:15.898Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -25672,8 +25568,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3518,
     "type": 1,
     "type_name": "单选题",
@@ -25698,11 +25594,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.979Z",
-    "submitted_at": "2026-09-05T11:39:15.979Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -25734,8 +25626,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3520,
     "type": 1,
     "type_name": "单选题",
@@ -25760,15 +25652,11 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.235Z",
-    "submitted_at": "2026-09-05T11:39:15.235Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3521,
     "type": 1,
     "type_name": "单选题",
@@ -25793,15 +25681,11 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official",
-    "submitted_answer": "D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.686Z",
-    "submitted_at": "2026-09-05T11:39:14.686Z"
+    "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3522,
     "type": 1,
     "type_name": "单选题",
@@ -25826,11 +25710,7 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official",
-    "submitted_answer": "D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.967Z",
-    "submitted_at": "2026-09-05T11:39:15.967Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -25949,8 +25829,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3527,
     "type": 1,
     "type_name": "单选题",
@@ -25975,11 +25855,7 @@
     ],
     "score": "1.00",
     "answer": "D",
-    "answer_source": "official",
-    "submitted_answer": "D",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.718Z",
-    "submitted_at": "2026-09-05T11:39:15.718Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -26040,8 +25916,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3530,
     "type": 1,
     "type_name": "单选题",
@@ -26066,11 +25942,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.259Z",
-    "submitted_at": "2026-09-05T11:39:15.259Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -26102,8 +25974,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3532,
     "type": 3,
     "type_name": "判断题",
@@ -26120,11 +25992,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.046Z",
-    "submitted_at": "2026-09-05T11:39:15.046Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -26232,8 +26100,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3538,
     "type": 3,
     "type_name": "判断题",
@@ -26250,11 +26118,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:14.658Z",
-    "submitted_at": "2026-09-05T11:39:14.658Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -26278,8 +26142,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3540,
     "type": 3,
     "type_name": "判断题",
@@ -26296,11 +26160,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.511Z",
-    "submitted_at": "2026-09-05T11:39:15.511Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -26345,8 +26205,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3543,
     "type": 3,
     "type_name": "判断题",
@@ -26363,11 +26223,7 @@
     ],
     "score": "1.00",
     "answer": "A",
-    "answer_source": "official",
-    "submitted_answer": "A",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.611Z",
-    "submitted_at": "2026-09-05T11:39:15.611Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -26517,8 +26373,8 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 23,
-    "exam_name": "每周测试5（9/5）",
+    "exam_id": 10,
+    "exam_name": "知识练习B",
     "question_id": 3551,
     "type": 3,
     "type_name": "判断题",
@@ -26535,11 +26391,7 @@
     ],
     "score": "1.00",
     "answer": "B",
-    "answer_source": "official",
-    "submitted_answer": "B",
-    "submission_status": "verified",
-    "updated_at": "2026-09-05T11:39:15.149Z",
-    "submitted_at": "2026-09-05T11:39:15.148Z"
+    "answer_source": "official"
   },
   {
     "exam_id": 10,
@@ -27172,9 +27024,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 11,
-    "exam_name": "知识练习C",
-    "question_id": 3884,
+    "exam_id": 10,
+    "exam_name": "知识练习B",
+    "question_id": 3582,
     "type": 2,
     "type_name": "多选题",
     "question": "《数据安全法》规范的主要活动包括（）。",
@@ -27205,9 +27057,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 11,
-    "exam_name": "知识练习C",
-    "question_id": 3885,
+    "exam_id": 10,
+    "exam_name": "知识练习B",
+    "question_id": 3583,
     "type": 2,
     "type_name": "多选题",
     "question": "根据《中华人民共和国个人信息保护法》，个人信息处理者需履行的典型义务要求包括（）。",
@@ -27238,9 +27090,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 11,
-    "exam_name": "知识练习C",
-    "question_id": 3886,
+    "exam_id": 10,
+    "exam_name": "知识练习B",
+    "question_id": 3584,
     "type": 2,
     "type_name": "多选题",
     "question": "文件访问控制的实现需结合（）技术。",
@@ -27271,9 +27123,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 11,
-    "exam_name": "知识练习C",
-    "question_id": 3887,
+    "exam_id": 10,
+    "exam_name": "知识练习B",
+    "question_id": 3585,
     "type": 2,
     "type_name": "多选题",
     "question": "自主访问控制（）机制适用于（）场景。",
@@ -27304,9 +27156,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 11,
-    "exam_name": "知识练习C",
-    "question_id": 3888,
+    "exam_id": 10,
+    "exam_name": "知识练习B",
+    "question_id": 3586,
     "type": 2,
     "type_name": "多选题",
     "question": "RBAC模型的典型应用场景包括（）。",
@@ -27337,9 +27189,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 11,
-    "exam_name": "知识练习C",
-    "question_id": 3889,
+    "exam_id": 10,
+    "exam_name": "知识练习B",
+    "question_id": 3587,
     "type": 2,
     "type_name": "多选题",
     "question": "访问控制列表（ACL）机制的典型应用场景包括（）。",
@@ -27370,9 +27222,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 11,
-    "exam_name": "知识练习C",
-    "question_id": 3890,
+    "exam_id": 10,
+    "exam_name": "知识练习B",
+    "question_id": 3588,
     "type": 2,
     "type_name": "多选题",
     "question": "Windows权限配置的常见风险包括（）。",
@@ -27403,9 +27255,9 @@
     "answer_source": "official"
   },
   {
-    "exam_id": 11,
-    "exam_name": "知识练习C",
-    "question_id": 3891,
+    "exam_id": 10,
+    "exam_name": "知识练习B",
+    "question_id": 3589,
     "type": 2,
     "type_name": "多选题",
     "question": "Windows权限配置需避免的操作包括（）。",
@@ -27438,7 +27290,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3892,
+    "question_id": 3590,
     "type": 2,
     "type_name": "多选题",
     "question": "Linux文件权限配置的常见风险包括（）。",
@@ -27471,7 +27323,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3893,
+    "question_id": 3591,
     "type": 2,
     "type_name": "多选题",
     "question": "权限继承规则的配置需注意（）。",
@@ -27504,7 +27356,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3894,
+    "question_id": 3592,
     "type": 2,
     "type_name": "多选题",
     "question": "数据库访问控制的实现需结合（）。",
@@ -27537,7 +27389,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3895,
+    "question_id": 3593,
     "type": 2,
     "type_name": "多选题",
     "question": "数据库权限的常见类型包括（）。",
@@ -27570,7 +27422,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3896,
+    "question_id": 3594,
     "type": 2,
     "type_name": "多选题",
     "question": "基于角色的权限配置需注意（）。",
@@ -27603,7 +27455,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3897,
+    "question_id": 3595,
     "type": 2,
     "type_name": "多选题",
     "question": "数据库权限粒度划分包括（）。",
@@ -27636,7 +27488,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3898,
+    "question_id": 3596,
     "type": 2,
     "type_name": "多选题",
     "question": "数据库接口访问控制的实现需（）。",
@@ -27669,7 +27521,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3899,
+    "question_id": 3597,
     "type": 2,
     "type_name": "多选题",
     "question": "ACL配置需注意的风险包括（）。",
@@ -27702,7 +27554,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3900,
+    "question_id": 3598,
     "type": 2,
     "type_name": "多选题",
     "question": "行级与列级安全机制的实现需结合（）。",
@@ -27735,7 +27587,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3901,
+    "question_id": 3599,
     "type": 2,
     "type_name": "多选题",
     "question": "虚拟化平台访问控制需满足（）。",
@@ -27768,7 +27620,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3902,
+    "question_id": 3600,
     "type": 2,
     "type_name": "多选题",
     "question": "虚拟交换机访问控制的实现需结合（）。",
@@ -27801,7 +27653,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3903,
+    "question_id": 3601,
     "type": 2,
     "type_name": "多选题",
     "question": "分布式防火墙配置的常见风险包括（）。",
@@ -27834,7 +27686,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3904,
+    "question_id": 3602,
     "type": 2,
     "type_name": "多选题",
     "question": "虚拟磁盘权限配置的常见风险包括（）。",
@@ -27867,7 +27719,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3905,
+    "question_id": 3603,
     "type": 2,
     "type_name": "多选题",
     "question": "快照访问控制机制的实现可能涉及（）等技术手段。",
@@ -27900,7 +27752,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3906,
+    "question_id": 3604,
     "type": 2,
     "type_name": "多选题",
     "question": "虚拟平台管理接口的访问控制机制中，（）技术属于增强身份认证安全性的措施。",
@@ -27933,7 +27785,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3907,
+    "question_id": 3605,
     "type": 2,
     "type_name": "多选题",
     "question": "云访问控制需结合（）技术。",
@@ -27966,7 +27818,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3908,
+    "question_id": 3606,
     "type": 2,
     "type_name": "多选题",
     "question": "云IAM的典型功能包括（）。",
@@ -27999,7 +27851,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3909,
+    "question_id": 3607,
     "type": 2,
     "type_name": "多选题",
     "question": "权限作用域划分的常见技术包括（）。",
@@ -28032,7 +27884,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3910,
+    "question_id": 3608,
     "type": 2,
     "type_name": "多选题",
     "question": "最小权限原则的实施需结合（）。",
@@ -28065,7 +27917,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3911,
+    "question_id": 3609,
     "type": 2,
     "type_name": "多选题",
     "question": "RBAC模型的结构包括（）之间的绑定关系。",
@@ -28098,7 +27950,7 @@
   {
     "exam_id": 10,
     "exam_name": "知识练习B",
-    "question_id": 3912,
+    "question_id": 3610,
     "type": 2,
     "type_name": "多选题",
     "question": "Serverless函数的权限配置需注意（）。",
@@ -29929,7 +29781,7 @@
   {
     "exam_id": 9,
     "exam_name": "知识练习A",
-    "question_id": 3719,
+    "question_id": 3680,
     "type": 1,
     "type_name": "单选题",
     "question": "RBAC中，权限与（）绑定，而非直接与用户关联。",
@@ -30045,7 +29897,7 @@
   {
     "exam_id": 9,
     "exam_name": "知识练习A",
-    "question_id": 3737,
+    "question_id": 3684,
     "type": 1,
     "type_name": "单选题",
     "question": "Windows系统中，修改文件所有者的操作需（）。",
@@ -30190,7 +30042,7 @@
   {
     "exam_id": 9,
     "exam_name": "知识练习A",
-    "question_id": 3697,
+    "question_id": 3690,
     "type": 1,
     "type_name": "单选题",
     "question": "数据库中，用户权限的最小分配单位是（）。",
@@ -32734,7 +32586,7 @@
   {
     "exam_id": 9,
     "exam_name": "知识练习A",
-    "question_id": 3794,
+    "question_id": 3793,
     "type": 3,
     "type_name": "判断题",
     "question": "Linux系统中，子目录的权限默认继承父目录的权限设置。（）",
@@ -34923,5 +34775,1311 @@
     "score": "2.00",
     "answer": "A,B,D",
     "answer_source": "official"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2496,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "数据恢复中的常见风险是（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "恢复过程中进一步损坏数据"
+      },
+      {
+        "key": "B",
+        "text": "恢复工具使系统运行更快"
+      },
+      {
+        "key": "C",
+        "text": "恢复后数据自动备份到云端"
+      },
+      {
+        "key": "D",
+        "text": "恢复工具能完美识别所有文件类型"
+      }
+    ],
+    "score": "1.00",
+    "answer": "A",
+    "answer_source": "ai",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.559Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.064Z",
+    "submitted_at": "2026-09-06T11:14:16.559Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2561,
+    "type": 3,
+    "type_name": "判断题",
+    "question": "数据库审计日志主要记录数据库的连接时间、用户操作、操作结果等内容。（）（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "正确"
+      },
+      {
+        "key": "B",
+        "text": "错误"
+      }
+    ],
+    "score": "1.00",
+    "answer": "A",
+    "answer_source": "ai",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.588Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.073Z",
+    "submitted_at": "2026-09-06T11:14:16.588Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2494,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "在 RAID 5 环境下进行数据恢复，重点关注的是（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "单个磁盘的容量"
+      },
+      {
+        "key": "B",
+        "text": "磁盘的品牌"
+      },
+      {
+        "key": "C",
+        "text": "磁盘的转速"
+      },
+      {
+        "key": "D",
+        "text": "校验数据和奇偶信息"
+      }
+    ],
+    "score": "1.00",
+    "answer": "D",
+    "answer_source": "ai",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.601Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.082Z",
+    "submitted_at": "2026-09-06T11:14:16.601Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2374,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "温备份（Warm Backup） 通过（）平衡业务连续性与数据一致性需求。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "随机跳过部分表空间备份"
+      },
+      {
+        "key": "B",
+        "text": "仅备份内存缓存数据"
+      },
+      {
+        "key": "C",
+        "text": "完全锁定数据库拒绝所有访问"
+      },
+      {
+        "key": "D",
+        "text": "允许读取操作但暂停写入事务"
+      }
+    ],
+    "score": "1.00",
+    "answer": "D",
+    "answer_source": "ai",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.623Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.090Z",
+    "submitted_at": "2026-09-06T11:14:16.623Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2362,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "增量备份的主要风险是（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "恢复时需要按顺序加载全量备份和所有增量备份"
+      },
+      {
+        "key": "B",
+        "text": "无法备份新增文件"
+      },
+      {
+        "key": "C",
+        "text": "备份文件无法加密"
+      },
+      {
+        "key": "D",
+        "text": "必须每天执行"
+      }
+    ],
+    "score": "1.00",
+    "answer": "A",
+    "answer_source": "ai",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.690Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.099Z",
+    "submitted_at": "2026-09-06T11:14:16.690Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2363,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "增量备份的核心特征是（），仅保存自上次备份后变化的数据块。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "完整复制整个文件系统"
+      },
+      {
+        "key": "B",
+        "text": "记录所有文件的访问时间戳"
+      },
+      {
+        "key": "C",
+        "text": "捕获新增或修改的数据内容"
+      },
+      {
+        "key": "D",
+        "text": "随机选择部分文件备份"
+      }
+    ],
+    "score": "1.00",
+    "answer": "C",
+    "answer_source": "ai",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.715Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.108Z",
+    "submitted_at": "2026-09-06T11:14:16.715Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2535,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "系统操作日志留存与管理的基本要求包括（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "随意删除日志且不备份"
+      },
+      {
+        "key": "B",
+        "text": "设定合理的日志留存期限、定期备份日志并保障日志的安全性"
+      },
+      {
+        "key": "C",
+        "text": "不设置日志留存期限且不保障日志安全"
+      },
+      {
+        "key": "D",
+        "text": "只备份日志一次然后不再管理"
+      }
+    ],
+    "score": "1.00",
+    "answer": "B",
+    "answer_source": "ai",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.745Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.118Z",
+    "submitted_at": "2026-09-06T11:14:16.744Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2386,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "差异备份调度适合（）场景，相比增量备份可减少恢复时的合并操作。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "需要快速恢复的中型业务系统"
+      },
+      {
+        "key": "B",
+        "text": "十年未更新的静态档案"
+      },
+      {
+        "key": "C",
+        "text": "实时同步的内存数据库"
+      },
+      {
+        "key": "D",
+        "text": "完全禁用备份验证"
+      }
+    ],
+    "score": "1.00",
+    "answer": "A",
+    "answer_source": "ai",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.776Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.128Z",
+    "submitted_at": "2026-09-06T11:14:16.776Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2468,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "文件元数据包含以下哪项信息（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "文件的具体内容文本"
+      },
+      {
+        "key": "B",
+        "text": "文件中的图片数据"
+      },
+      {
+        "key": "C",
+        "text": "文件创建时间"
+      },
+      {
+        "key": "D",
+        "text": "文件中的音频片段"
+      }
+    ],
+    "score": "1.00",
+    "answer": "C",
+    "answer_source": "ai",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.767Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.138Z",
+    "submitted_at": "2026-09-06T11:14:16.767Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2599,
+    "type": 2,
+    "type_name": "多选题",
+    "question": "数据库审计分析方法分类与特点包括（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "规则匹配分析的确定性"
+      },
+      {
+        "key": "B",
+        "text": "统计分析的趋势发现能力"
+      },
+      {
+        "key": "C",
+        "text": "机器学习分析的适应性"
+      },
+      {
+        "key": "D",
+        "text": "文件压缩分析的高效性"
+      },
+      {
+        "key": "E",
+        "text": "图像渲染分析的美观性"
+      }
+    ],
+    "score": "2.00",
+    "answer": "A,B,C",
+    "answer_source": "ai",
+    "submitted_answer": "A,B,C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.791Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.146Z",
+    "submitted_at": "2026-09-06T11:14:16.791Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2537,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "系统日志对于数据销毁过程的审计，要确认（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "销毁设备的品牌"
+      },
+      {
+        "key": "B",
+        "text": "销毁人员的电话号码"
+      },
+      {
+        "key": "C",
+        "text": "数据销毁是否按规定流程执行"
+      },
+      {
+        "key": "D",
+        "text": "数据销毁后的存储设备重量"
+      }
+    ],
+    "score": "1.00",
+    "answer": "C",
+    "answer_source": "ai",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.811Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.154Z",
+    "submitted_at": "2026-09-06T11:14:16.811Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2398,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "RAID 5 是一种通过（）来实现数据冗余的存储技术，适合对性能和容量都有较高要求的场景。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "数据镜像"
+      },
+      {
+        "key": "B",
+        "text": "奇偶校验"
+      },
+      {
+        "key": "C",
+        "text": "数据条带化"
+      },
+      {
+        "key": "D",
+        "text": "分布式哈希"
+      }
+    ],
+    "score": "1.00",
+    "answer": "B",
+    "answer_source": "ai",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.843Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.163Z",
+    "submitted_at": "2026-09-06T11:14:16.843Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2602,
+    "type": 2,
+    "type_name": "多选题",
+    "question": "数据库敏感数据访问审计方法包括（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "识别敏感数据的范围"
+      },
+      {
+        "key": "B",
+        "text": "增加数据库的内存分配"
+      },
+      {
+        "key": "C",
+        "text": "记录敏感数据的访问行为"
+      },
+      {
+        "key": "D",
+        "text": "更新数据库的驱动程序"
+      },
+      {
+        "key": "E",
+        "text": "分析敏感数据访问的合规性"
+      }
+    ],
+    "score": "2.00",
+    "answer": "A,C,E",
+    "answer_source": "ai",
+    "submitted_answer": "A,C,E",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.878Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.172Z",
+    "submitted_at": "2026-09-06T11:14:16.878Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2432,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "EDR 系统实时跟踪文件操作行为并记录详细日志是为了（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "供用户查看文件操作历史"
+      },
+      {
+        "key": "B",
+        "text": "为后续分析异常行为和追溯问题提供依据"
+      },
+      {
+        "key": "C",
+        "text": "展示系统的运行效率"
+      },
+      {
+        "key": "D",
+        "text": "增加系统的存储负担"
+      }
+    ],
+    "score": "1.00",
+    "answer": "B",
+    "answer_source": "ai",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.899Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.181Z",
+    "submitted_at": "2026-09-06T11:14:16.899Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2495,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "RAID0阵列恢复的最大挑战是（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "冗余数据过多"
+      },
+      {
+        "key": "B",
+        "text": "校验块干扰"
+      },
+      {
+        "key": "C",
+        "text": "无冗余分散存储"
+      },
+      {
+        "key": "D",
+        "text": "磁盘转速差异"
+      }
+    ],
+    "score": "1.00",
+    "answer": "C",
+    "answer_source": "ai",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.888Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.191Z",
+    "submitted_at": "2026-09-06T11:14:16.887Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2466,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "以下哪种文件系统结构适合快速定位文件，但可能占用较多存储空间（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "单级目录"
+      },
+      {
+        "key": "B",
+        "text": "多级目录"
+      },
+      {
+        "key": "C",
+        "text": "链式目录"
+      },
+      {
+        "key": "D",
+        "text": "哈希目录"
+      }
+    ],
+    "score": "1.00",
+    "answer": "D",
+    "answer_source": "ai",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.922Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.200Z",
+    "submitted_at": "2026-09-06T11:14:16.921Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2513,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "对于可擦写光盘进行数据逻辑销毁，比较有效的方式是（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "简单删除文件"
+      },
+      {
+        "key": "B",
+        "text": "更改光盘的标签"
+      },
+      {
+        "key": "C",
+        "text": "将光盘表面刮花"
+      },
+      {
+        "key": "D",
+        "text": "多次重写数据"
+      }
+    ],
+    "score": "1.00",
+    "answer": "D",
+    "answer_source": "ai",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.910Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.209Z",
+    "submitted_at": "2026-09-06T11:14:16.910Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2355,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "备份系统与数据安全体系的协同体现在（），通过加密和权限控制防止备份数据成为新的攻击目标。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "禁用所有备份日志记录功能"
+      },
+      {
+        "key": "B",
+        "text": "存储密码明文到备份文件中"
+      },
+      {
+        "key": "C",
+        "text": "开放备份存储的匿名访问权限"
+      },
+      {
+        "key": "D",
+        "text": "对备份数据实施与生产环境同等级的保护"
+      }
+    ],
+    "score": "1.00",
+    "answer": "D",
+    "answer_source": "ai",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:17.075Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.217Z",
+    "submitted_at": "2026-09-06T11:14:17.075Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2447,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "结合不同类型的审计数据如文件操作和系统登录审计数据进行异常识别与溯源能够（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "减少审计数据的存储量"
+      },
+      {
+        "key": "B",
+        "text": "加快审计数据的分析速度"
+      },
+      {
+        "key": "C",
+        "text": "降低审计工作的成本"
+      },
+      {
+        "key": "D",
+        "text": "更全面地构建文件操作场景准确判断异常行为并找到根源"
+      }
+    ],
+    "score": "1.00",
+    "answer": "D",
+    "answer_source": "ai",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.933Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.227Z",
+    "submitted_at": "2026-09-06T11:14:16.933Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2557,
+    "type": 3,
+    "type_name": "判断题",
+    "question": "文件监测工具的关键配置参数包括监测的文件类型和监测的目录范围。（）（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "正确"
+      },
+      {
+        "key": "B",
+        "text": "错误"
+      }
+    ],
+    "score": "1.00",
+    "answer": "A",
+    "answer_source": "ai",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.956Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.236Z",
+    "submitted_at": "2026-09-06T11:14:16.956Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2376,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "远程备份区别于本地备份的关键能力是（），确保数据在区域性灾难中存活。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "通过地理隔离防范站点级风险"
+      },
+      {
+        "key": "B",
+        "text": "完全替代本地存储设备"
+      },
+      {
+        "key": "C",
+        "text": "消除所有网络传输成本"
+      },
+      {
+        "key": "D",
+        "text": "仅保存最近24小时的数据"
+      }
+    ],
+    "score": "1.00",
+    "answer": "A",
+    "answer_source": "ai",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.979Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.245Z",
+    "submitted_at": "2026-09-06T11:14:16.979Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2471,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "文件头与文件尾标识的主要作用是 （）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "增加文件的安全性"
+      },
+      {
+        "key": "B",
+        "text": "提高文件的访问速度"
+      },
+      {
+        "key": "C",
+        "text": "识别文件类型和完整性"
+      },
+      {
+        "key": "D",
+        "text": "方便文件的排序"
+      }
+    ],
+    "score": "1.00",
+    "answer": "C",
+    "answer_source": "ai",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.966Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.253Z",
+    "submitted_at": "2026-09-06T11:14:16.966Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2491,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "逻辑删除数据的恢复机制依赖于（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "重新安装操作系统"
+      },
+      {
+        "key": "B",
+        "text": "更换存储设备"
+      },
+      {
+        "key": "C",
+        "text": "格式化磁盘"
+      },
+      {
+        "key": "D",
+        "text": "文件系统的元数据记录和回收站或类似的暂存机制"
+      }
+    ],
+    "score": "1.00",
+    "answer": "D",
+    "answer_source": "ai",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:17.003Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.262Z",
+    "submitted_at": "2026-09-06T11:14:17.003Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2375,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "本地备份的核心优势在于（），适合快速恢复高频访问的热数据。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "无需任何存储介质成本"
+      },
+      {
+        "key": "B",
+        "text": "依赖互联网传输速度"
+      },
+      {
+        "key": "C",
+        "text": "提供最低的恢复延迟"
+      },
+      {
+        "key": "D",
+        "text": "自动规避所有自然灾害风险"
+      }
+    ],
+    "score": "1.00",
+    "answer": "C",
+    "answer_source": "ai",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:16.993Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.269Z",
+    "submitted_at": "2026-09-06T11:14:16.993Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2510,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "使用软件进行磁盘数据逻辑销毁时，关键是要（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "快速完成操作"
+      },
+      {
+        "key": "B",
+        "text": "只销毁部分数据"
+      },
+      {
+        "key": "C",
+        "text": "确保数据被完全覆盖"
+      },
+      {
+        "key": "D",
+        "text": "不影响磁盘硬件"
+      }
+    ],
+    "score": "1.00",
+    "answer": "C",
+    "answer_source": "ai",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:17.019Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.277Z",
+    "submitted_at": "2026-09-06T11:14:17.019Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2365,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "在数据备份策略中，（）是指自上次全量备份后，对所有新增或修改过的数据进行备份的方式，其恢复时仅需最近一次全量备份和最后一次差异备份即可完成。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "增量备份"
+      },
+      {
+        "key": "B",
+        "text": "差异备份"
+      },
+      {
+        "key": "C",
+        "text": "镜像备份"
+      },
+      {
+        "key": "D",
+        "text": "热备份"
+      }
+    ],
+    "score": "1.00",
+    "answer": "B",
+    "answer_source": "ai",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:17.030Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.286Z",
+    "submitted_at": "2026-09-06T11:14:17.030Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2400,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "DAS（直接连接存储）的主要特点是（），适合需要高性能和低延迟的应用场景。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "高速网络连接"
+      },
+      {
+        "key": "B",
+        "text": "通过网络共享存储资源"
+      },
+      {
+        "key": "C",
+        "text": "直接连接到服务器，低延迟"
+      },
+      {
+        "key": "D",
+        "text": "支持大规模分布式存储"
+      }
+    ],
+    "score": "1.00",
+    "answer": "C",
+    "answer_source": "ai",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:17.056Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.294Z",
+    "submitted_at": "2026-09-06T11:14:17.056Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2384,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "云存储作为备份目标时，必须（），以保障数据传输与存储的安全性。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "完全依赖云服务商默认配置"
+      },
+      {
+        "key": "B",
+        "text": "限制备份速度不超过1KB/s"
+      },
+      {
+        "key": "C",
+        "text": "使用明文传输节省CPU资源"
+      },
+      {
+        "key": "D",
+        "text": "配置TLS传输加密和存储端静态加密"
+      }
+    ],
+    "score": "1.00",
+    "answer": "D",
+    "answer_source": "ai",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:17.065Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.303Z",
+    "submitted_at": "2026-09-06T11:14:17.064Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2358,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "数据备份流程的首要步骤是（），明确需要保护的数据范围和优先级。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "关闭所有生产服务器"
+      },
+      {
+        "key": "B",
+        "text": "删除历史备份释放空间"
+      },
+      {
+        "key": "C",
+        "text": "直接启动全盘镜像备份"
+      },
+      {
+        "key": "D",
+        "text": "进行数据资产分类和关键性评估"
+      }
+    ],
+    "score": "1.00",
+    "answer": "D",
+    "answer_source": "ai",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:17.092Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.312Z",
+    "submitted_at": "2026-09-06T11:14:17.091Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2402,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "在存储架构中，（）通过标准网络协议（如NFS/SMB）提供文件级共享服务，其典型特点是内置文件系统，适合多客户端并发访问非结构化数据，但受限于网络带宽和协议开销，不适合高性能块存储需求。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "直连式存储"
+      },
+      {
+        "key": "B",
+        "text": "网络附加存储"
+      },
+      {
+        "key": "C",
+        "text": "存储区域网络"
+      },
+      {
+        "key": "D",
+        "text": "内存数据库"
+      }
+    ],
+    "score": "1.00",
+    "answer": "B",
+    "answer_source": "ai",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:17.103Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:14.319Z",
+    "submitted_at": "2026-09-06T11:14:17.102Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2595,
+    "type": 3,
+    "type_name": "判断题",
+    "question": "系统操作日志的基本内容包括操作时间、操作类型和操作用户等信息。（）（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "正确"
+      },
+      {
+        "key": "B",
+        "text": "错误"
+      }
+    ],
+    "score": "1.00",
+    "answer": "A",
+    "answer_source": "ai",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:07.230Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:06.606Z",
+    "submitted_at": "2026-09-06T11:14:07.230Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2450,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "数据库安全审计产品核心功能模块里，审计日志存储功能的关键在于（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "快速处理审计规则"
+      },
+      {
+        "key": "B",
+        "text": "可靠地保存审计过程中的操作记录"
+      },
+      {
+        "key": "C",
+        "text": "及时发现异常操作"
+      },
+      {
+        "key": "D",
+        "text": "对不同用户进行权限分配"
+      }
+    ],
+    "score": "1.00",
+    "answer": "B",
+    "answer_source": "ai",
+    "submitted_answer": "B",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:07.340Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:06.616Z",
+    "submitted_at": "2026-09-06T11:14:07.340Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2512,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "光盘数据逻辑销毁技术通常采用（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "直接格式化"
+      },
+      {
+        "key": "B",
+        "text": "加密光盘数据使其不可读"
+      },
+      {
+        "key": "C",
+        "text": "删除光盘文件目录"
+      },
+      {
+        "key": "D",
+        "text": "对光盘进行分区"
+      }
+    ],
+    "score": "1.00",
+    "answer": "C",
+    "answer_source": "ai",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:07.307Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:06.626Z",
+    "submitted_at": "2026-09-06T11:14:07.306Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2429,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "日志分析工具关联不同来源的日志数据进行文件操作行为分析能够（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "增加日志文件的存储容量"
+      },
+      {
+        "key": "B",
+        "text": "减少日志分析的时间"
+      },
+      {
+        "key": "C",
+        "text": "改变日志文件的存储格式"
+      },
+      {
+        "key": "D",
+        "text": "更全面深入地了解文件操作的全貌和潜在风险"
+      }
+    ],
+    "score": "1.00",
+    "answer": "D",
+    "answer_source": "ai",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:07.315Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:06.635Z",
+    "submitted_at": "2026-09-06T11:14:07.315Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2371,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "快照备份最适合（）场景，满足业务系统对快速恢复点的需求。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "个人电脑年度备份"
+      },
+      {
+        "key": "B",
+        "text": "离线磁带长期存储"
+      },
+      {
+        "key": "C",
+        "text": "法律要求的十年期数据归档"
+      },
+      {
+        "key": "D",
+        "text": "关键业务系统每日多次状态保存"
+      }
+    ],
+    "score": "1.00",
+    "answer": "D",
+    "answer_source": "ai",
+    "submitted_answer": "D",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:07.382Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:06.644Z",
+    "submitted_at": "2026-09-06T11:14:07.382Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2382,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "虚拟化环境的数据源配置需（），实现整机快速备份与恢复。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "要求用户自行保存数据"
+      },
+      {
+        "key": "B",
+        "text": "逐文件手动导出虚拟机磁盘"
+      },
+      {
+        "key": "C",
+        "text": "基于hypervisor接口捕获整个VM"
+      },
+      {
+        "key": "D",
+        "text": "仅备份虚拟机配置文件"
+      }
+    ],
+    "score": "1.00",
+    "answer": "C",
+    "answer_source": "ai",
+    "submitted_answer": "C",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:07.393Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:06.653Z",
+    "submitted_at": "2026-09-06T11:14:07.393Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2492,
+    "type": 1,
+    "type_name": "单选题",
+    "question": "逻辑删除数据恢复机制的关键在于（）。（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "找到数据在存储介质中的索引标记"
+      },
+      {
+        "key": "B",
+        "text": "重新格式化存储设备"
+      },
+      {
+        "key": "C",
+        "text": "更换存储介质"
+      },
+      {
+        "key": "D",
+        "text": "对存储设备进行加密"
+      }
+    ],
+    "score": "1.00",
+    "answer": "A",
+    "answer_source": "ai",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:07.452Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:06.662Z",
+    "submitted_at": "2026-09-06T11:14:07.452Z"
+  },
+  {
+    "exam_id": 24,
+    "exam_name": "每周测试5（9/6）",
+    "question_id": 2597,
+    "type": 3,
+    "type_name": "判断题",
+    "question": "系统日志在数据销毁过程中的关键审计点包括销毁操作的发起者和时间。（）（AI作答）",
+    "options": [
+      {
+        "key": "A",
+        "text": "正确"
+      },
+      {
+        "key": "B",
+        "text": "错误"
+      }
+    ],
+    "score": "1.00",
+    "answer": "A",
+    "answer_source": "ai",
+    "submitted_answer": "A",
+    "submission_status": "verified",
+    "updated_at": "2026-09-06T11:14:07.428Z",
+    "ai_model": "gpt-6-astra",
+    "answered_at": "2026-09-06T11:14:06.671Z",
+    "submitted_at": "2026-09-06T11:14:07.428Z"
   }
 ]
