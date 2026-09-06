@@ -22,16 +22,18 @@ Edge 同理，扩展页地址为 `edge://extensions/`。解压后的文件夹不
 
 ## 共享题库
 
-仓库的 [`question-bank/`](question-bank/) 文件夹提供作者于 **2026-09-05** 导出的 **1253 题**题库，两种格式对应同一批题目：
+仓库的 [`question-bank/`](question-bank/) 文件夹提供作者共享的题库。最新 Markdown 更新于 **2026-09-06**，共 **1291 题**，其中 **38 题标注为 AI 作答**。
 
-| 格式 | 用途 | 文件 |
-| --- | --- | --- |
-| JSON | 在扩展中导入，自动匹配答案 | [下载 JSON 题库](https://github.com/Meridian-lIzix/exam-asname-autofill/raw/refs/heads/main/question-bank/题库-2026-09-05.json) |
-| Markdown | 在 GitHub 或本地阅读复习 | [查看 Markdown 题库](question-bank/题库-2026-09-05.md) |
+| 格式 | 更新日期 | 题数 | 用途与文件 |
+| --- | --- | --- | --- |
+| Markdown | 2026-09-06 | 1291 | [阅读最新题库](question-bank/题库-2026-09-06.md) |
+| JSON | 2026-09-05 | 1253 | [下载可导入题库](https://github.com/Meridian-lIzix/exam-asname-autofill/raw/refs/heads/main/question-bank/题库-2026-09-05.json) |
+
+本次提供的更新文件为 Markdown，JSON 暂保留上一次导出版本，尚不包含新增的 38 题。AI 作答的题目保留原标记，供阅读时核对。
 
 初次使用时，先下载 JSON 文件，再点击面板底部的「导入题库」并选择该文件。已有本地题库时会自动合并去重，无需先清空。Markdown 文件用于阅读，不能直接导入。
 
-这份题库是上述日期的记录，未覆盖的新题仍会按题库与 AI 补答流程处理。
+题库内容以各自标注的导出日期为准，未覆盖的新题仍会按题库与 AI 补答流程处理。
 
 ## 使用
 
