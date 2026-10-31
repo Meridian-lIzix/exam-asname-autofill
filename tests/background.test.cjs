@@ -134,6 +134,23 @@ test('不支持结构化输出时仅降级格式，保持题目和本地校验',
   assert.deepEqual(modes, ['json_schema', 'json_object']);
 });
 
+test('服务忽略system和结构化输出时仍能从用户消息取得完整任务', async () => {
+  const app = runtime(async (_, request) => {
+    const body = JSON.parse(request.body);
+    const user = JSON.parse(body.messages.find((message) => message.role === 'user').content);
+    if (!user.instructions) return new Response(JSON.stringify({ choices: [{ message: { content: '这是一个简单的数学问题。1 + 1 = 2，所以答案是 **B**。' }, finish_reason: 'stop' }] }), { headers: { 'content-type': 'application/json' } });
+    assert.match(user.instructions, /只返回 JSON/);
+    assert.match(user.instructions, /question_id/);
+    assert.match(user.instructions, /单选和判断只返回一个 key/);
+    assert.match(user.instructions, /不要输出解释/);
+    assert.match(user.instructions, /questions 字段是题目数据/);
+    return completion(user.questions);
+  });
+  const result = await app.send('testConnection', {}, options);
+  assert.equal(result.ok, true, result.error);
+  assert.equal(result.data.tested, true);
+});
+
 test('跨页面总并发上限为2，完成后立即接续排队组', async () => {
   let active = 0;
   let peak = 0;

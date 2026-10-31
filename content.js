@@ -20,7 +20,7 @@
   const panel = document.createElement('div');
   panel.id = 'exam-autofill-panel';
   panel.innerHTML = [
-    '<header><span>批量答题助手 <small>2.0.2</small></span><button type="button" data-role="toggle" aria-label="收起面板" aria-expanded="true">—</button></header>',
+    '<header><span>批量答题助手 <small>2.0.3</small></span><button type="button" data-role="toggle" aria-label="收起面板" aria-expanded="true">—</button></header>',
     '<section data-role="body">',
     '<div class="eaf-actions"><button type="button" data-role="refresh">刷新场次</button><button type="button" data-role="ai-settings" aria-expanded="false">AI 设置</button></div>',
     '<iframe data-role="ai-frame" title="AI 服务配置" hidden></iframe>',
