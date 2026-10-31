@@ -1,20 +1,20 @@
 <div align="center">
 
-# 模拟训练批量答题助手
+# 模拟训练<br>批量答题助手
 
 **题库优先 · AI 补答 · 保存回读核验**
 
-面向 `exam.asname.cn` 的 Chrome / Edge 扩展。<br>自动识别开放场次，复用已有答案，将题目与答案持续整理为本地题库。
+面向 `exam.asname.cn` 的浏览器扩展。<br>自动识别开放场次，复用已有答案，将题目与答案持续整理为本地题库。
 
 <p>
   <a href="manifest.json"><img src="https://img.shields.io/badge/version-2.0.3-2563eb?style=flat-square" alt="版本 2.0.3"></a>
-  <a href="#安装"><img src="https://img.shields.io/badge/browser-Chrome%20%2F%20Edge-0f766e?style=flat-square" alt="浏览器 Chrome / Edge"></a>
+  <a href="#安装"><img src="https://img.shields.io/badge/Chrome%20%2F%20Edge-0f766e?style=flat-square" alt="浏览器 Chrome / Edge"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-64748b?style=flat-square" alt="MIT 许可"></a>
 </p>
 
 **[下载扩展](https://github.com/Meridian-lIzix/exam-asname-autofill/raw/refs/heads/main/exam-asname-autofill.zip)** · **[下载 JSON 题库](https://github.com/Meridian-lIzix/exam-asname-autofill/raw/refs/heads/main/question-bank/题库-2026-09-06.json)** · **[阅读题库](question-bank/题库-2026-09-06.md)**
 
-[快速开始](#安装) · [使用指南](#使用) · [AI 设置](#ai-设置) · [API 兼容性](#api-兼容性说明) · [常见问题](#常见问题)
+[快速开始](#安装) · [使用指南](#使用) · [AI 设置](#ai-设置)<br>[API 兼容性](#api-兼容性说明) · [常见问题](#常见问题)
 
 </div>
 
@@ -22,10 +22,10 @@
 
 | 能力 | 处理方式 |
 | --- | --- |
-| **场次识别** | 自动识别当前开放的知识练习和测试，勾选后开始。 |
-| **答案复用** | 按网站官方答案 → 本地题库 → AI 补答的顺序处理。 |
-| **结果核验** | 保存选项后回读网站状态，标记作答是否核验成功。 |
-| **题库积累** | 跨场次保存、匹配与合并，支持 Markdown / JSON 导出。 |
+| **场次** | 自动识别当前开放的知识练习和测试，勾选后开始。 |
+| **匹配** | 按网站官方答案 → 本地题库 → AI 补答的顺序处理。 |
+| **核验** | 保存选项后回读网站状态，标记作答是否核验成功。 |
+| **题库** | 跨场次保存、匹配与合并，支持 Markdown / JSON 导出。 |
 
 ## 安装
 
